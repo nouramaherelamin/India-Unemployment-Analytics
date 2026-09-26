@@ -304,12 +304,14 @@ Data Cleaning · EDA · Correlation Analysis · Mann-Whitney U · Kruskal-Wallis
 
 # 👩‍💻 Author
 
-**Noura Maher Elamin**
+<div align="center">
 
-Data Analysis & Machine Learning Enthusiast
+## Noura Maher Elamin
 
-- [LinkedIn](https://www.linkedin.com/in/nouramaherelamin/)
-- [GitHub](https://github.com/nouramaherelamin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nouramaherelamin/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nouramaherelamin)
+
+</div>
 
 ---
 
