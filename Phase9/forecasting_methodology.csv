@@ -1,0 +1,9 @@
+Topic,Detail
+Forecast horizon,One-step-ahead monthly forecasting
+Evaluation design,Rolling-origin backtesting
+Initial training window,8 monthly observations
+Candidate models,"Naive, Drift, Simple Exponential Smoothing, Holt Linear, AR(1), AR(2), ARIMA(1,1,0)"
+Seasonality,No seasonal model fitted because only 14 months are available
+COVID treatment,COVID months are included in backtesting but reported separately
+Sample-size limitation,Only 14 observations; model ranking is unstable and should be treated as diagnostic
+Interpretation rule,"Use forecasting as a scoped benchmark, not as a long-term prediction"

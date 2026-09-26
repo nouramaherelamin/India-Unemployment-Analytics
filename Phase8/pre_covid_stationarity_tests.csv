@@ -1,0 +1,3 @@
+Series,Test,N,Statistic,p_value,Lags_Used,Critical_1pct,Critical_5pct,Critical_10pct,Interpretation_5pct
+Pre-COVID unemployment (descriptive only),ADF,10,-2.3241518351708885,0.16429678841101447,0,-4.473135048010974,-3.28988060356653,-2.7723823456790124,Non-stationary / insufficient evidence of stationarity
+Pre-COVID unemployment (descriptive only),KPSS,10,0.6500407712793871,0.01808720261096481,0,0.739,0.463,0.347,Non-stationary / reject stationarity

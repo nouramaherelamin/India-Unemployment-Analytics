@@ -1,0 +1,29 @@
+Region,Area_Combinations,Total_Observations,Expected_Observations,Complete
+Andhra Pradesh,2,28,28,True
+Assam,2,26,28,False
+Bihar,2,28,28,True
+Chandigarh,1,12,28,False
+Chhattisgarh,2,28,28,True
+Delhi,2,28,28,True
+Goa,2,24,28,False
+Gujarat,2,28,28,True
+Haryana,2,28,28,True
+Himachal Pradesh,2,28,28,True
+Jammu & Kashmir,2,21,28,False
+Jharkhand,2,28,28,True
+Karnataka,2,28,28,True
+Kerala,2,28,28,True
+Madhya Pradesh,2,28,28,True
+Maharashtra,2,28,28,True
+Meghalaya,2,27,28,False
+Odisha,2,28,28,True
+Puducherry,2,26,28,False
+Punjab,2,28,28,True
+Rajasthan,2,28,28,True
+Sikkim,2,17,28,False
+Tamil Nadu,2,28,28,True
+Telangana,2,28,28,True
+Tripura,2,28,28,True
+Uttar Pradesh,2,28,28,True
+Uttarakhand,2,27,28,False
+West Bengal,2,28,28,True

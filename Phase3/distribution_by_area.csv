@@ -1,0 +1,5 @@
+,Estimated Unemployment Rate (%),Estimated Unemployment Rate (%),Estimated Unemployment Rate (%),Estimated Unemployment Rate (%),Estimated Unemployment Rate (%),Estimated Employed,Estimated Employed,Estimated Employed,Estimated Employed,Estimated Employed,Estimated Labour Participation Rate (%),Estimated Labour Participation Rate (%),Estimated Labour Participation Rate (%),Estimated Labour Participation Rate (%),Estimated Labour Participation Rate (%)
+,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max
+Area,,,,,,,,,,,,,,,
+Rural,10.324791086350976,6.76,10.038894689671338,0.0,74.51,10192852.571030641,7508747.0,9847886.116993677,49420.0,45777509.0,44.46481894150418,42.56,8.853304020311564,13.33,72.57
+Urban,13.166614173228345,9.97,11.165443768997305,0.0,76.74,4388625.580052493,2821456.0,4411701.682557805,64538.0,17486683.0,40.90136482939633,40.21,6.922734037458856,20.51,72.26

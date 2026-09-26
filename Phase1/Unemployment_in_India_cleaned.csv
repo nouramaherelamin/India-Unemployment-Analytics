@@ -1,0 +1,741 @@
+Region,Date,Frequency,Estimated Unemployment Rate (%),Estimated Employed,Estimated Labour Participation Rate (%),Area,Period
+Andhra Pradesh,2019-05-31,Monthly,3.65,11999139.0,43.24,Rural,Pre-COVID
+Andhra Pradesh,2019-06-30,Monthly,3.05,11755881.0,42.05,Rural,Pre-COVID
+Andhra Pradesh,2019-07-31,Monthly,3.75,12086707.0,43.5,Rural,Pre-COVID
+Andhra Pradesh,2019-08-31,Monthly,3.32,12285693.0,43.97,Rural,Pre-COVID
+Andhra Pradesh,2019-09-30,Monthly,5.17,12256762.0,44.68,Rural,Pre-COVID
+Andhra Pradesh,2019-10-31,Monthly,3.52,12017412.0,43.01,Rural,Pre-COVID
+Andhra Pradesh,2019-11-30,Monthly,4.12,11397681.0,41.0,Rural,Pre-COVID
+Andhra Pradesh,2019-12-31,Monthly,4.38,12528395.0,45.14,Rural,Pre-COVID
+Andhra Pradesh,2020-01-31,Monthly,4.84,12016676.0,43.46,Rural,Pre-COVID
+Andhra Pradesh,2020-02-29,Monthly,5.91,11723617.0,42.83,Rural,Pre-COVID
+Andhra Pradesh,2020-03-31,Monthly,4.06,11359660.0,40.66,Rural,COVID
+Andhra Pradesh,2020-04-30,Monthly,16.29,8792827.0,36.03,Rural,COVID
+Andhra Pradesh,2020-05-31,Monthly,14.46,9526902.0,38.16,Rural,COVID
+Andhra Pradesh,2020-06-30,Monthly,0.85,15572975.0,53.76,Rural,COVID
+Assam,2019-05-31,Monthly,4.29,11749334.0,57.39,Rural,Pre-COVID
+Assam,2019-06-30,Monthly,5.08,8923222.0,43.87,Rural,Pre-COVID
+Assam,2019-07-31,Monthly,4.26,9911534.0,48.21,Rural,Pre-COVID
+Assam,2019-08-31,Monthly,5.79,9292039.0,45.83,Rural,Pre-COVID
+Assam,2019-09-30,Monthly,4.46,11468349.0,55.67,Rural,Pre-COVID
+Assam,2019-10-31,Monthly,4.65,8395906.0,40.76,Rural,Pre-COVID
+Assam,2019-11-30,Monthly,4.66,9625362.0,46.64,Rural,Pre-COVID
+Assam,2020-01-31,Monthly,4.29,11420996.0,54.9,Rural,Pre-COVID
+Assam,2020-02-29,Monthly,3.26,8462814.0,40.17,Rural,Pre-COVID
+Assam,2020-03-31,Monthly,3.77,9878742.0,47.05,Rural,COVID
+Assam,2020-05-31,Monthly,9.38,9926176.0,50.0,Rural,COVID
+Assam,2020-06-30,Monthly,0.0,7544937.0,34.38,Rural,COVID
+Bihar,2019-05-31,Monthly,9.27,24322330.0,39.75,Rural,Pre-COVID
+Bihar,2019-06-30,Monthly,10.2,24097712.0,39.71,Rural,Pre-COVID
+Bihar,2019-07-31,Monthly,13.44,23248875.0,39.66,Rural,Pre-COVID
+Bihar,2019-08-31,Monthly,11.0,22260203.0,36.85,Rural,Pre-COVID
+Bihar,2019-09-30,Monthly,8.87,23905700.0,38.57,Rural,Pre-COVID
+Bihar,2019-10-31,Monthly,12.47,24053140.0,40.31,Rural,Pre-COVID
+Bihar,2019-11-30,Monthly,12.4,22445989.0,37.51,Rural,Pre-COVID
+Bihar,2019-12-31,Monthly,10.16,22914530.0,37.25,Rural,Pre-COVID
+Bihar,2020-01-31,Monthly,9.13,23409006.0,37.54,Rural,Pre-COVID
+Bihar,2020-02-29,Monthly,9.61,23168192.0,37.28,Rural,Pre-COVID
+Bihar,2020-03-31,Monthly,15.39,22667882.0,38.88,Rural,COVID
+Bihar,2020-04-30,Monthly,45.09,14645275.0,38.63,Rural,COVID
+Bihar,2020-05-31,Monthly,47.26,14050319.0,38.5,Rural,COVID
+Bihar,2020-06-30,Monthly,20.49,20622566.0,37.4,Rural,COVID
+Chhattisgarh,2019-05-31,Monthly,9.82,6259019.0,42.89,Rural,Pre-COVID
+Chhattisgarh,2019-06-30,Monthly,6.76,6608626.0,43.71,Rural,Pre-COVID
+Chhattisgarh,2019-07-31,Monthly,4.54,6753622.0,43.53,Rural,Pre-COVID
+Chhattisgarh,2019-08-31,Monthly,4.64,6607694.0,42.55,Rural,Pre-COVID
+Chhattisgarh,2019-09-30,Monthly,8.33,6490776.0,43.38,Rural,Pre-COVID
+Chhattisgarh,2019-10-31,Monthly,6.96,7043840.0,46.28,Rural,Pre-COVID
+Chhattisgarh,2019-11-30,Monthly,2.77,6942931.0,43.56,Rural,Pre-COVID
+Chhattisgarh,2019-12-31,Monthly,6.11,6569385.0,42.59,Rural,Pre-COVID
+Chhattisgarh,2020-01-31,Monthly,9.89,6236201.0,42.03,Rural,Pre-COVID
+Chhattisgarh,2020-02-29,Monthly,7.89,6847173.0,45.05,Rural,Pre-COVID
+Chhattisgarh,2020-03-31,Monthly,7.31,6894808.0,44.98,Rural,COVID
+Chhattisgarh,2020-04-30,Monthly,0.0,6534321.0,39.43,Rural,COVID
+Chhattisgarh,2020-05-31,Monthly,7.64,5454091.0,35.56,Rural,COVID
+Chhattisgarh,2020-06-30,Monthly,10.14,5781095.0,38.66,Rural,COVID
+Delhi,2019-05-31,Monthly,12.56,169487.0,42.33,Rural,Pre-COVID
+Delhi,2019-06-30,Monthly,9.33,149076.0,35.74,Rural,Pre-COVID
+Delhi,2019-07-31,Monthly,11.07,166605.0,40.53,Rural,Pre-COVID
+Delhi,2019-08-31,Monthly,17.18,135407.0,35.21,Rural,Pre-COVID
+Delhi,2019-09-30,Monthly,12.5,166056.0,40.68,Rural,Pre-COVID
+Delhi,2019-10-31,Monthly,15.84,149511.0,37.9,Rural,Pre-COVID
+Delhi,2019-11-30,Monthly,11.11,178768.0,42.71,Rural,Pre-COVID
+Delhi,2019-12-31,Monthly,16.97,145671.0,37.08,Rural,Pre-COVID
+Delhi,2020-01-31,Monthly,13.48,157791.0,38.36,Rural,Pre-COVID
+Delhi,2020-02-29,Monthly,13.81,147500.0,35.84,Rural,Pre-COVID
+Delhi,2020-03-31,Monthly,15.18,152413.0,37.45,Rural,COVID
+Delhi,2020-04-30,Monthly,20.69,115487.0,30.21,Rural,COVID
+Delhi,2020-05-31,Monthly,22.76,129610.0,34.65,Rural,COVID
+Delhi,2020-06-30,Monthly,21.14,112108.0,29.22,Rural,COVID
+Goa,2019-05-31,Monthly,2.91,179340.0,39.16,Rural,Pre-COVID
+Goa,2019-06-30,Monthly,5.45,170471.0,38.19,Rural,Pre-COVID
+Goa,2019-07-31,Monthly,10.98,167437.0,39.81,Rural,Pre-COVID
+Goa,2019-08-31,Monthly,1.98,183603.0,39.61,Rural,Pre-COVID
+Goa,2019-09-30,Monthly,3.61,163215.0,35.78,Rural,Pre-COVID
+Goa,2019-10-31,Monthly,7.21,177440.0,40.36,Rural,Pre-COVID
+Goa,2019-11-30,Monthly,23.71,159489.0,44.09,Rural,Pre-COVID
+Goa,2019-12-31,Monthly,3.54,177155.0,38.7,Rural,Pre-COVID
+Goa,2020-01-31,Monthly,5.38,158936.0,35.36,Rural,Pre-COVID
+Goa,2020-02-29,Monthly,0.0,171672.0,36.11,Rural,Pre-COVID
+Goa,2020-04-30,Monthly,15.91,181657.0,45.36,Rural,COVID
+Goa,2020-05-31,Monthly,20.0,128538.0,33.71,Rural,COVID
+Gujarat,2019-05-31,Monthly,2.88,13954728.0,52.03,Rural,Pre-COVID
+Gujarat,2019-06-30,Monthly,4.77,13199281.0,50.12,Rural,Pre-COVID
+Gujarat,2019-07-31,Monthly,4.58,14327083.0,54.21,Rural,Pre-COVID
+Gujarat,2019-08-31,Monthly,3.7,13507342.0,50.57,Rural,Pre-COVID
+Gujarat,2019-09-30,Monthly,6.29,13280783.0,51.01,Rural,Pre-COVID
+Gujarat,2019-10-31,Monthly,4.91,13828512.0,52.27,Rural,Pre-COVID
+Gujarat,2019-11-30,Monthly,4.68,14487815.0,54.55,Rural,Pre-COVID
+Gujarat,2019-12-31,Monthly,3.46,13877825.0,51.51,Rural,Pre-COVID
+Gujarat,2020-01-31,Monthly,5.35,14301844.0,54.07,Rural,Pre-COVID
+Gujarat,2020-02-29,Monthly,6.64,13973042.0,53.48,Rural,Pre-COVID
+Gujarat,2020-03-31,Monthly,7.59,13483615.0,52.06,Rural,COVID
+Gujarat,2020-04-30,Monthly,12.0,8587594.0,34.77,Rural,COVID
+Gujarat,2020-05-31,Monthly,14.58,11121124.0,46.31,Rural,COVID
+Gujarat,2020-06-30,Monthly,1.41,13243922.0,47.72,Rural,COVID
+Haryana,2019-05-31,Monthly,14.54,5249186.0,45.12,Rural,Pre-COVID
+Haryana,2019-06-30,Monthly,23.08,4745178.0,45.23,Rural,Pre-COVID
+Haryana,2019-07-31,Monthly,16.22,4826560.0,42.17,Rural,Pre-COVID
+Haryana,2019-08-31,Monthly,30.94,4558306.0,48.23,Rural,Pre-COVID
+Haryana,2019-09-30,Monthly,16.36,5127956.0,44.72,Rural,Pre-COVID
+Haryana,2019-10-31,Monthly,24.17,4798833.0,46.07,Rural,Pre-COVID
+Haryana,2019-11-30,Monthly,16.59,4875763.0,42.48,Rural,Pre-COVID
+Haryana,2019-12-31,Monthly,29.56,4603484.0,47.4,Rural,Pre-COVID
+Haryana,2020-01-31,Monthly,16.21,5062293.0,43.74,Rural,Pre-COVID
+Haryana,2020-02-29,Monthly,27.19,4570108.0,45.37,Rural,Pre-COVID
+Haryana,2020-03-31,Monthly,23.92,4366148.0,41.4,Rural,COVID
+Haryana,2020-04-30,Monthly,41.61,4041050.0,49.85,Rural,COVID
+Haryana,2020-05-31,Monthly,34.22,3914193.0,42.78,Rural,COVID
+Haryana,2020-06-30,Monthly,35.57,4357835.0,48.53,Rural,COVID
+Himachal Pradesh,2019-05-31,Monthly,13.68,2045760.0,44.23,Rural,Pre-COVID
+Himachal Pradesh,2019-06-30,Monthly,11.43,1957081.0,41.18,Rural,Pre-COVID
+Himachal Pradesh,2019-07-31,Monthly,20.59,1916824.0,44.91,Rural,Pre-COVID
+Himachal Pradesh,2019-08-31,Monthly,18.56,1969248.0,44.91,Rural,Pre-COVID
+Himachal Pradesh,2019-09-30,Monthly,15.98,2039804.0,45.02,Rural,Pre-COVID
+Himachal Pradesh,2019-10-31,Monthly,15.81,1946957.0,42.81,Rural,Pre-COVID
+Himachal Pradesh,2019-11-30,Monthly,22.86,2024409.0,48.5,Rural,Pre-COVID
+Himachal Pradesh,2019-12-31,Monthly,19.46,1922821.0,44.05,Rural,Pre-COVID
+Himachal Pradesh,2020-01-31,Monthly,16.67,2041035.0,45.11,Rural,Pre-COVID
+Himachal Pradesh,2020-02-29,Monthly,15.42,1952464.0,42.45,Rural,Pre-COVID
+Himachal Pradesh,2020-03-31,Monthly,17.71,1800426.0,40.17,Rural,COVID
+Himachal Pradesh,2020-04-30,Monthly,2.13,984171.0,18.43,Rural,COVID
+Himachal Pradesh,2020-05-31,Monthly,25.64,1732050.0,42.62,Rural,COVID
+Himachal Pradesh,2020-06-30,Monthly,1.12,2230075.0,41.2,Rural,COVID
+Jammu & Kashmir,2019-05-31,Monthly,12.78,2495186.0,40.57,Rural,Pre-COVID
+Jammu & Kashmir,2019-06-30,Monthly,12.09,2423742.0,39.02,Rural,Pre-COVID
+Jammu & Kashmir,2019-07-31,Monthly,13.67,2549316.0,41.71,Rural,Pre-COVID
+Jammu & Kashmir,2019-08-31,Monthly,11.32,2778624.0,44.17,Rural,Pre-COVID
+Jammu & Kashmir,2019-10-31,Monthly,19.27,2477621.0,43.08,Rural,Pre-COVID
+Jammu & Kashmir,2019-11-30,Monthly,14.73,2415724.0,39.69,Rural,Pre-COVID
+Jammu & Kashmir,2020-01-31,Monthly,22.19,2373488.0,42.56,Rural,Pre-COVID
+Jammu & Kashmir,2020-02-29,Monthly,21.23,2163397.0,38.25,Rural,Pre-COVID
+Jammu & Kashmir,2020-03-31,Monthly,16.0,2361004.0,39.06,Rural,COVID
+Jammu & Kashmir,2020-05-31,Monthly,2.22,2716966.0,38.46,Rural,COVID
+Jammu & Kashmir,2020-06-30,Monthly,18.97,2049617.0,34.94,Rural,COVID
+Jharkhand,2019-05-31,Monthly,7.11,7035766.0,39.04,Rural,Pre-COVID
+Jharkhand,2019-06-30,Monthly,8.46,7319782.0,41.12,Rural,Pre-COVID
+Jharkhand,2019-07-31,Monthly,9.98,6958404.0,39.66,Rural,Pre-COVID
+Jharkhand,2019-08-31,Monthly,12.06,7015356.0,40.83,Rural,Pre-COVID
+Jharkhand,2019-09-30,Monthly,7.12,7500122.0,41.24,Rural,Pre-COVID
+Jharkhand,2019-10-31,Monthly,6.57,7761243.0,42.33,Rural,Pre-COVID
+Jharkhand,2019-11-30,Monthly,8.07,7279628.0,40.26,Rural,Pre-COVID
+Jharkhand,2019-12-31,Monthly,15.15,6873437.0,41.09,Rural,Pre-COVID
+Jharkhand,2020-01-31,Monthly,6.16,7868736.0,42.43,Rural,Pre-COVID
+Jharkhand,2020-02-29,Monthly,9.06,7932402.0,44.05,Rural,Pre-COVID
+Jharkhand,2020-03-31,Monthly,5.01,7157454.0,37.96,Rural,COVID
+Jharkhand,2020-04-30,Monthly,41.72,4280434.0,36.92,Rural,COVID
+Jharkhand,2020-05-31,Monthly,55.1,3315038.0,37.03,Rural,COVID
+Jharkhand,2020-06-30,Monthly,21.53,6375114.0,40.65,Rural,COVID
+Karnataka,2019-05-31,Monthly,5.46,13911440.0,46.36,Rural,Pre-COVID
+Karnataka,2019-06-30,Monthly,5.98,12888490.0,43.12,Rural,Pre-COVID
+Karnataka,2019-07-31,Monthly,0.52,12169808.0,38.42,Rural,Pre-COVID
+Karnataka,2019-08-31,Monthly,0.37,12686470.0,39.93,Rural,Pre-COVID
+Karnataka,2019-09-30,Monthly,3.2,13741892.0,44.45,Rural,Pre-COVID
+Karnataka,2019-10-31,Monthly,7.13,12803527.0,43.1,Rural,Pre-COVID
+Karnataka,2019-11-30,Monthly,1.19,11537217.0,36.45,Rural,Pre-COVID
+Karnataka,2019-12-31,Monthly,0.41,12756132.0,39.92,Rural,Pre-COVID
+Karnataka,2020-01-31,Monthly,2.57,13938874.0,44.52,Rural,Pre-COVID
+Karnataka,2020-02-29,Monthly,4.11,12753657.0,41.33,Rural,Pre-COVID
+Karnataka,2020-03-31,Monthly,2.39,12853818.0,40.85,Rural,COVID
+Karnataka,2020-04-30,Monthly,33.17,9330400.0,43.25,Rural,COVID
+Karnataka,2020-05-31,Monthly,23.72,10626328.0,43.09,Rural,COVID
+Karnataka,2020-06-30,Monthly,10.92,15396213.0,53.37,Rural,COVID
+Kerala,2019-05-31,Monthly,6.63,5184355.0,38.07,Rural,Pre-COVID
+Kerala,2019-06-30,Monthly,9.0,5605627.0,42.19,Rural,Pre-COVID
+Kerala,2019-07-31,Monthly,4.95,4855393.0,34.96,Rural,Pre-COVID
+Kerala,2019-08-31,Monthly,10.32,5233449.0,39.9,Rural,Pre-COVID
+Kerala,2019-09-30,Monthly,5.35,5400499.0,38.97,Rural,Pre-COVID
+Kerala,2019-10-31,Monthly,9.14,5328825.0,40.02,Rural,Pre-COVID
+Kerala,2019-11-30,Monthly,5.0,4557906.0,32.71,Rural,Pre-COVID
+Kerala,2019-12-31,Monthly,10.77,5065804.0,38.67,Rural,Pre-COVID
+Kerala,2020-01-31,Monthly,4.11,5307026.0,37.66,Rural,Pre-COVID
+Kerala,2020-02-29,Monthly,8.91,5203579.0,38.84,Rural,Pre-COVID
+Kerala,2020-03-31,Monthly,8.85,4141953.0,30.87,Rural,COVID
+Kerala,2020-04-30,Monthly,10.71,1754170.0,13.33,Rural,COVID
+Kerala,2020-05-31,Monthly,23.38,3799919.0,33.62,Rural,COVID
+Kerala,2020-06-30,Monthly,27.66,3952088.0,37.01,Rural,COVID
+Madhya Pradesh,2019-05-31,Monthly,3.63,15349838.0,37.97,Rural,Pre-COVID
+Madhya Pradesh,2019-06-30,Monthly,4.25,16294794.0,40.48,Rural,Pre-COVID
+Madhya Pradesh,2019-07-31,Monthly,3.92,16274707.0,40.2,Rural,Pre-COVID
+Madhya Pradesh,2019-08-31,Monthly,4.94,16559137.0,41.25,Rural,Pre-COVID
+Madhya Pradesh,2019-09-30,Monthly,3.08,16159315.0,39.4,Rural,Pre-COVID
+Madhya Pradesh,2019-10-31,Monthly,2.98,17060638.0,41.46,Rural,Pre-COVID
+Madhya Pradesh,2019-11-30,Monthly,2.72,16306428.0,39.44,Rural,Pre-COVID
+Madhya Pradesh,2019-12-31,Monthly,2.94,16854647.0,40.77,Rural,Pre-COVID
+Madhya Pradesh,2020-01-31,Monthly,3.66,16183702.0,39.35,Rural,Pre-COVID
+Madhya Pradesh,2020-02-29,Monthly,4.42,16178044.0,39.57,Rural,Pre-COVID
+Madhya Pradesh,2020-03-31,Monthly,1.19,16480441.0,38.9,Rural,COVID
+Madhya Pradesh,2020-04-30,Monthly,12.5,14238959.0,37.88,Rural,COVID
+Madhya Pradesh,2020-05-31,Monthly,22.46,13099601.0,39.24,Rural,COVID
+Madhya Pradesh,2020-06-30,Monthly,6.46,16748971.0,41.5,Rural,COVID
+Maharashtra,2019-05-31,Monthly,3.67,23896858.0,47.11,Rural,Pre-COVID
+Maharashtra,2019-06-30,Monthly,4.34,23056511.0,45.69,Rural,Pre-COVID
+Maharashtra,2019-07-31,Monthly,3.66,24843750.0,48.8,Rural,Pre-COVID
+Maharashtra,2019-08-31,Monthly,3.76,26835389.0,52.67,Rural,Pre-COVID
+Maharashtra,2019-09-30,Monthly,4.4,25219281.0,49.74,Rural,Pre-COVID
+Maharashtra,2019-10-31,Monthly,3.81,24330249.0,47.61,Rural,Pre-COVID
+Maharashtra,2019-11-30,Monthly,3.68,24881383.0,48.53,Rural,Pre-COVID
+Maharashtra,2019-12-31,Monthly,3.03,26357625.0,50.98,Rural,Pre-COVID
+Maharashtra,2020-01-31,Monthly,3.8,25881398.0,50.36,Rural,Pre-COVID
+Maharashtra,2020-02-29,Monthly,4.24,25293535.0,49.36,Rural,Pre-COVID
+Maharashtra,2020-03-31,Monthly,5.38,23130976.0,45.6,Rural,COVID
+Maharashtra,2020-04-30,Monthly,25.28,15014802.0,37.42,Rural,COVID
+Maharashtra,2020-05-31,Monthly,16.89,18423447.0,41.21,Rural,COVID
+Maharashtra,2020-06-30,Monthly,9.4,23601016.0,48.34,Rural,COVID
+Meghalaya,2019-05-31,Monthly,3.16,1119011.0,66.13,Rural,Pre-COVID
+Meghalaya,2019-06-30,Monthly,4.23,1024797.0,61.09,Rural,Pre-COVID
+Meghalaya,2019-07-31,Monthly,1.03,1158511.0,66.67,Rural,Pre-COVID
+Meghalaya,2019-08-31,Monthly,0.52,1065725.0,60.86,Rural,Pre-COVID
+Meghalaya,2019-09-30,Monthly,0.24,1162159.0,66.02,Rural,Pre-COVID
+Meghalaya,2019-10-31,Monthly,3.7,1080609.0,63.44,Rural,Pre-COVID
+Meghalaya,2019-11-30,Monthly,1.5,1205703.0,69.03,Rural,Pre-COVID
+Meghalaya,2019-12-31,Monthly,1.8,1102997.0,63.18,Rural,Pre-COVID
+Meghalaya,2020-01-31,Monthly,0.97,1229406.0,69.66,Rural,Pre-COVID
+Meghalaya,2020-02-29,Monthly,2.76,1112864.0,64.06,Rural,Pre-COVID
+Meghalaya,2020-03-31,Monthly,1.28,1192616.0,67.46,Rural,COVID
+Meghalaya,2020-04-30,Monthly,8.38,803118.0,48.83,Rural,COVID
+Meghalaya,2020-05-31,Monthly,3.73,992148.0,57.26,Rural,COVID
+Meghalaya,2020-06-30,Monthly,1.35,1150200.0,64.63,Rural,COVID
+Odisha,2019-05-31,Monthly,4.17,11155753.0,40.47,Rural,Pre-COVID
+Odisha,2019-06-30,Monthly,4.71,10965154.0,39.94,Rural,Pre-COVID
+Odisha,2019-07-31,Monthly,3.31,12009883.0,43.05,Rural,Pre-COVID
+Odisha,2019-08-31,Monthly,3.68,11727659.0,42.13,Rural,Pre-COVID
+Odisha,2019-09-30,Monthly,4.31,11167715.0,40.32,Rural,Pre-COVID
+Odisha,2019-10-31,Monthly,4.28,11621534.0,41.88,Rural,Pre-COVID
+Odisha,2019-11-30,Monthly,4.72,12192623.0,44.06,Rural,Pre-COVID
+Odisha,2019-12-31,Monthly,4.67,11345069.0,40.91,Rural,Pre-COVID
+Odisha,2020-01-31,Monthly,1.81,11182128.0,39.09,Rural,Pre-COVID
+Odisha,2020-02-29,Monthly,3.31,11842655.0,41.98,Rural,Pre-COVID
+Odisha,2020-03-31,Monthly,15.09,9814156.0,39.55,Rural,COVID
+Odisha,2020-04-30,Monthly,24.48,5562449.0,25.16,Rural,COVID
+Odisha,2020-05-31,Monthly,9.45,9683719.0,36.48,Rural,COVID
+Odisha,2020-06-30,Monthly,4.59,10187145.0,36.36,Rural,COVID
+Puducherry,2019-05-31,Monthly,0.0,172474.0,43.08,Rural,Pre-COVID
+Puducherry,2019-06-30,Monthly,0.0,184527.0,45.95,Rural,Pre-COVID
+Puducherry,2019-07-31,Monthly,0.0,139227.0,34.56,Rural,Pre-COVID
+Puducherry,2019-08-31,Monthly,4.85,183930.0,47.83,Rural,Pre-COVID
+Puducherry,2019-09-30,Monthly,0.0,175718.0,43.34,Rural,Pre-COVID
+Puducherry,2019-10-31,Monthly,1.18,180283.0,44.85,Rural,Pre-COVID
+Puducherry,2019-11-30,Monthly,0.0,142787.0,35.0,Rural,Pre-COVID
+Puducherry,2019-12-31,Monthly,1.99,180808.0,45.07,Rural,Pre-COVID
+Puducherry,2020-01-31,Monthly,0.58,176252.0,43.18,Rural,Pre-COVID
+Puducherry,2020-02-29,Monthly,1.74,183619.0,45.38,Rural,Pre-COVID
+Puducherry,2020-03-31,Monthly,2.31,142176.0,35.23,Rural,COVID
+Puducherry,2020-04-30,Monthly,74.51,49420.0,46.79,Rural,COVID
+Punjab,2019-05-31,Monthly,9.17,6088547.0,44.79,Rural,Pre-COVID
+Punjab,2019-06-30,Monthly,12.21,6025235.0,45.79,Rural,Pre-COVID
+Punjab,2019-07-31,Monthly,9.64,6308129.0,46.5,Rural,Pre-COVID
+Punjab,2019-08-31,Monthly,6.69,6183427.0,44.08,Rural,Pre-COVID
+Punjab,2019-09-30,Monthly,8.59,6260971.0,45.49,Rural,Pre-COVID
+Punjab,2019-10-31,Monthly,12.56,6021921.0,45.66,Rural,Pre-COVID
+Punjab,2019-11-30,Monthly,7.07,6395022.0,45.55,Rural,Pre-COVID
+Punjab,2019-12-31,Monthly,6.13,6164215.0,43.4,Rural,Pre-COVID
+Punjab,2020-01-31,Monthly,9.69,6189471.0,45.22,Rural,Pre-COVID
+Punjab,2020-02-29,Monthly,10.41,6009820.0,44.19,Rural,Pre-COVID
+Punjab,2020-03-31,Monthly,10.51,6373692.0,46.85,Rural,COVID
+Punjab,2020-04-30,Monthly,3.69,4721590.0,32.2,Rural,COVID
+Punjab,2020-05-31,Monthly,40.59,3727366.0,41.14,Rural,COVID
+Punjab,2020-06-30,Monthly,20.0,5364047.0,43.9,Rural,COVID
+Rajasthan,2019-05-31,Monthly,4.03,15226005.0,38.52,Rural,Pre-COVID
+Rajasthan,2019-06-30,Monthly,13.7,14610564.0,41.02,Rural,Pre-COVID
+Rajasthan,2019-07-31,Monthly,9.7,14859873.0,39.78,Rural,Pre-COVID
+Rajasthan,2019-08-31,Monthly,12.5,15052051.0,41.48,Rural,Pre-COVID
+Rajasthan,2019-09-30,Monthly,5.45,15419779.0,39.24,Rural,Pre-COVID
+Rajasthan,2019-10-31,Monthly,14.66,15178544.0,42.69,Rural,Pre-COVID
+Rajasthan,2019-11-30,Monthly,10.47,15278556.0,40.87,Rural,Pre-COVID
+Rajasthan,2019-12-31,Monthly,13.96,15485307.0,43.0,Rural,Pre-COVID
+Rajasthan,2020-01-31,Monthly,8.0,15484353.0,40.12,Rural,Pre-COVID
+Rajasthan,2020-02-29,Monthly,14.48,15040572.0,41.83,Rural,Pre-COVID
+Rajasthan,2020-03-31,Monthly,9.47,15059769.0,39.47,Rural,COVID
+Rajasthan,2020-04-30,Monthly,12.25,13051219.0,35.21,Rural,COVID
+Rajasthan,2020-05-31,Monthly,10.45,15586833.0,41.11,Rural,COVID
+Rajasthan,2020-06-30,Monthly,13.86,16076978.0,43.98,Rural,COVID
+Sikkim,2019-10-31,Monthly,5.48,146688.0,44.06,Rural,Pre-COVID
+Sikkim,2019-11-30,Monthly,13.11,162426.0,53.04,Rural,Pre-COVID
+Sikkim,2019-12-31,Monthly,1.0,161647.0,46.3,Rural,Pre-COVID
+Sikkim,2020-04-30,Monthly,0.0,133399.0,37.72,Rural,COVID
+Sikkim,2020-06-30,Monthly,5.81,141313.0,42.36,Rural,COVID
+Tamil Nadu,2019-05-31,Monthly,0.97,15844698.0,49.44,Rural,Pre-COVID
+Tamil Nadu,2019-06-30,Monthly,0.92,16375303.0,50.99,Rural,Pre-COVID
+Tamil Nadu,2019-07-31,Monthly,6.01,16455928.0,53.94,Rural,Pre-COVID
+Tamil Nadu,2019-08-31,Monthly,2.91,16463931.0,52.17,Rural,Pre-COVID
+Tamil Nadu,2019-09-30,Monthly,1.71,14595441.0,45.62,Rural,Pre-COVID
+Tamil Nadu,2019-10-31,Monthly,1.46,15595647.0,48.55,Rural,Pre-COVID
+Tamil Nadu,2019-11-30,Monthly,2.46,16223430.0,50.95,Rural,Pre-COVID
+Tamil Nadu,2019-12-31,Monthly,3.73,15356938.0,48.8,Rural,Pre-COVID
+Tamil Nadu,2020-01-31,Monthly,1.18,14954646.0,46.23,Rural,Pre-COVID
+Tamil Nadu,2020-02-29,Monthly,1.17,15828488.0,48.86,Rural,Pre-COVID
+Tamil Nadu,2020-03-31,Monthly,6.36,15848590.0,51.56,Rural,COVID
+Tamil Nadu,2020-04-30,Monthly,53.19,5086200.0,33.05,Rural,COVID
+Tamil Nadu,2020-05-31,Monthly,38.73,5768342.0,28.6,Rural,COVID
+Tamil Nadu,2020-06-30,Monthly,2.06,10169115.0,31.49,Rural,COVID
+Telangana,2019-05-31,Monthly,2.23,11053353.0,61.74,Rural,Pre-COVID
+Telangana,2019-06-30,Monthly,5.92,10728822.0,62.19,Rural,Pre-COVID
+Telangana,2019-07-31,Monthly,2.45,11538688.0,64.4,Rural,Pre-COVID
+Telangana,2019-08-31,Monthly,1.4,10743959.0,59.23,Rural,Pre-COVID
+Telangana,2019-09-30,Monthly,5.49,12636415.0,72.57,Rural,Pre-COVID
+Telangana,2019-10-31,Monthly,7.29,11375354.0,66.49,Rural,Pre-COVID
+Telangana,2019-11-30,Monthly,6.47,11265828.0,65.17,Rural,Pre-COVID
+Telangana,2019-12-31,Monthly,1.35,11068056.0,60.61,Rural,Pre-COVID
+Telangana,2020-01-31,Monthly,5.02,12065915.0,68.51,Rural,Pre-COVID
+Telangana,2020-02-29,Monthly,9.02,11304474.0,66.92,Rural,Pre-COVID
+Telangana,2020-03-31,Monthly,5.63,12028377.0,68.53,Rural,COVID
+Telangana,2020-04-30,Monthly,4.51,8793799.0,49.44,Rural,COVID
+Telangana,2020-05-31,Monthly,34.01,7508747.0,61.0,Rural,COVID
+Telangana,2020-06-30,Monthly,19.3,8891181.0,58.97,Rural,COVID
+Tripura,2019-05-31,Monthly,29.25,1019549.0,64.47,Rural,Pre-COVID
+Tripura,2019-06-30,Monthly,26.64,1107013.0,67.4,Rural,Pre-COVID
+Tripura,2019-07-31,Monthly,22.47,1052597.0,60.54,Rural,Pre-COVID
+Tripura,2019-08-31,Monthly,25.49,975501.0,58.29,Rural,Pre-COVID
+Tripura,2019-09-30,Monthly,30.23,1034408.0,65.9,Rural,Pre-COVID
+Tripura,2019-10-31,Monthly,27.54,1113764.0,68.21,Rural,Pre-COVID
+Tripura,2019-11-30,Monthly,25.25,1084633.0,64.29,Rural,Pre-COVID
+Tripura,2019-12-31,Monthly,26.53,1046878.0,63.02,Rural,Pre-COVID
+Tripura,2020-01-31,Monthly,31.91,1057975.0,68.61,Rural,Pre-COVID
+Tripura,2020-02-29,Monthly,26.22,1169347.0,69.88,Rural,Pre-COVID
+Tripura,2020-03-31,Monthly,31.61,1060946.0,68.28,Rural,COVID
+Tripura,2020-04-30,Monthly,43.64,675083.0,52.63,Rural,COVID
+Tripura,2020-05-31,Monthly,14.71,911789.0,46.9,Rural,COVID
+Tripura,2020-06-30,Monthly,18.84,1106978.0,59.74,Rural,COVID
+Uttar Pradesh,2019-05-31,Monthly,10.26,43287808.0,39.96,Rural,Pre-COVID
+Uttar Pradesh,2019-06-30,Monthly,11.13,42276572.0,39.32,Rural,Pre-COVID
+Uttar Pradesh,2019-07-31,Monthly,9.19,42697000.0,38.78,Rural,Pre-COVID
+Uttar Pradesh,2019-08-31,Monthly,11.47,43298746.0,40.24,Rural,Pre-COVID
+Uttar Pradesh,2019-09-30,Monthly,6.45,44198762.0,38.79,Rural,Pre-COVID
+Uttar Pradesh,2019-10-31,Monthly,10.18,42833265.0,39.07,Rural,Pre-COVID
+Uttar Pradesh,2019-11-30,Monthly,6.94,43261530.0,38.01,Rural,Pre-COVID
+Uttar Pradesh,2019-12-31,Monthly,8.43,44640087.0,39.77,Rural,Pre-COVID
+Uttar Pradesh,2020-01-31,Monthly,6.06,45777509.0,39.67,Rural,Pre-COVID
+Uttar Pradesh,2020-02-29,Monthly,8.12,44257432.0,39.13,Rural,Pre-COVID
+Uttar Pradesh,2020-03-31,Monthly,9.37,43086706.0,38.53,Rural,COVID
+Uttar Pradesh,2020-04-30,Monthly,19.92,39970677.0,40.37,Rural,COVID
+Uttar Pradesh,2020-05-31,Monthly,16.89,38640999.0,37.52,Rural,COVID
+Uttar Pradesh,2020-06-30,Monthly,8.51,41908909.0,36.89,Rural,COVID
+Uttarakhand,2019-05-31,Monthly,1.63,2108044.0,37.47,Rural,Pre-COVID
+Uttarakhand,2019-06-30,Monthly,4.65,2021553.0,37.01,Rural,Pre-COVID
+Uttarakhand,2019-07-31,Monthly,5.74,2000524.0,36.97,Rural,Pre-COVID
+Uttarakhand,2019-08-31,Monthly,6.11,1911380.0,35.39,Rural,Pre-COVID
+Uttarakhand,2019-09-30,Monthly,3.47,2157845.0,38.79,Rural,Pre-COVID
+Uttarakhand,2019-10-31,Monthly,4.83,2027662.0,36.9,Rural,Pre-COVID
+Uttarakhand,2019-11-30,Monthly,5.56,2007113.0,36.73,Rural,Pre-COVID
+Uttarakhand,2019-12-31,Monthly,4.52,1947566.0,35.19,Rural,Pre-COVID
+Uttarakhand,2020-01-31,Monthly,4.17,1986386.0,35.69,Rural,Pre-COVID
+Uttarakhand,2020-02-29,Monthly,4.85,2057523.0,37.16,Rural,Pre-COVID
+Uttarakhand,2020-04-30,Monthly,3.66,1972074.0,35.04,Rural,COVID
+Uttarakhand,2020-05-31,Monthly,3.57,1915482.0,33.94,Rural,COVID
+Uttarakhand,2020-06-30,Monthly,10.71,1675441.0,32.0,Rural,COVID
+West Bengal,2019-05-31,Monthly,6.02,23452875.0,46.41,Rural,Pre-COVID
+West Bengal,2019-06-30,Monthly,5.85,25543465.0,50.36,Rural,Pre-COVID
+West Bengal,2019-07-31,Monthly,5.62,24857807.0,48.78,Rural,Pre-COVID
+West Bengal,2019-08-31,Monthly,5.58,24924827.0,48.79,Rural,Pre-COVID
+West Bengal,2019-09-30,Monthly,5.26,25610773.0,49.87,Rural,Pre-COVID
+West Bengal,2019-10-31,Monthly,6.78,24353018.0,48.09,Rural,Pre-COVID
+West Bengal,2019-11-30,Monthly,5.83,25630359.0,50.0,Rural,Pre-COVID
+West Bengal,2019-12-31,Monthly,5.79,24906239.0,48.47,Rural,Pre-COVID
+West Bengal,2020-01-31,Monthly,6.79,24612171.0,48.3,Rural,Pre-COVID
+West Bengal,2020-02-29,Monthly,3.78,26093009.0,49.51,Rural,Pre-COVID
+West Bengal,2020-03-31,Monthly,7.02,25097812.0,49.18,Rural,COVID
+West Bengal,2020-04-30,Monthly,18.32,17639370.0,39.27,Rural,COVID
+West Bengal,2020-05-31,Monthly,18.43,19115772.0,42.53,Rural,COVID
+West Bengal,2020-06-30,Monthly,4.94,21225887.0,40.44,Rural,COVID
+Andhra Pradesh,2019-05-31,Monthly,6.09,4788661.0,37.45,Urban,Pre-COVID
+Andhra Pradesh,2019-06-30,Monthly,3.8,4824630.0,36.76,Urban,Pre-COVID
+Andhra Pradesh,2019-07-31,Monthly,5.64,4657443.0,36.1,Urban,Pre-COVID
+Andhra Pradesh,2019-08-31,Monthly,4.61,4743179.0,36.29,Urban,Pre-COVID
+Andhra Pradesh,2019-09-30,Monthly,6.01,4733996.0,36.69,Urban,Pre-COVID
+Andhra Pradesh,2019-10-31,Monthly,4.7,4774377.0,36.41,Urban,Pre-COVID
+Andhra Pradesh,2019-11-30,Monthly,7.54,4668772.0,36.62,Urban,Pre-COVID
+Andhra Pradesh,2019-12-31,Monthly,7.88,4913963.0,38.61,Urban,Pre-COVID
+Andhra Pradesh,2020-01-31,Monthly,7.11,4618860.0,35.91,Urban,Pre-COVID
+Andhra Pradesh,2020-02-29,Monthly,5.66,4822035.0,36.84,Urban,Pre-COVID
+Andhra Pradesh,2020-03-31,Monthly,9.88,4521537.0,36.08,Urban,COVID
+Andhra Pradesh,2020-04-30,Monthly,32.3,2544084.0,26.97,Urban,COVID
+Andhra Pradesh,2020-05-31,Monthly,24.91,3428356.0,32.69,Urban,COVID
+Andhra Pradesh,2020-06-30,Monthly,5.86,4954389.0,37.61,Urban,COVID
+Assam,2019-05-31,Monthly,7.87,1671707.0,44.92,Urban,Pre-COVID
+Assam,2019-06-30,Monthly,9.89,1647342.0,45.17,Urban,Pre-COVID
+Assam,2019-07-31,Monthly,3.21,1739838.0,44.32,Urban,Pre-COVID
+Assam,2019-08-31,Monthly,10.39,1595582.0,43.81,Urban,Pre-COVID
+Assam,2019-09-30,Monthly,9.26,1576480.0,42.66,Urban,Pre-COVID
+Assam,2019-10-31,Monthly,11.17,1595176.0,44.01,Urban,Pre-COVID
+Assam,2019-11-30,Monthly,6.31,1708045.0,44.59,Urban,Pre-COVID
+Assam,2019-12-31,Monthly,5.02,1722303.0,44.26,Urban,Pre-COVID
+Assam,2020-01-31,Monthly,7.24,1630908.0,42.82,Urban,Pre-COVID
+Assam,2020-02-29,Monthly,9.98,1625454.0,43.9,Urban,Pre-COVID
+Assam,2020-03-31,Monthly,10.34,1664145.0,45.03,Urban,COVID
+Assam,2020-04-30,Monthly,8.37,1454956.0,38.45,Urban,COVID
+Assam,2020-05-31,Monthly,10.77,1441722.0,39.04,Urban,COVID
+Assam,2020-06-30,Monthly,3.42,1551007.0,38.73,Urban,COVID
+Bihar,2019-05-31,Monthly,19.9,3029344.0,39.8,Urban,Pre-COVID
+Bihar,2019-06-30,Monthly,13.29,3248864.0,39.35,Urban,Pre-COVID
+Bihar,2019-07-31,Monthly,16.41,3059744.0,38.36,Urban,Pre-COVID
+Bihar,2019-08-31,Monthly,17.66,2994763.0,38.03,Urban,Pre-COVID
+Bihar,2019-09-30,Monthly,20.46,2992082.0,39.25,Urban,Pre-COVID
+Bihar,2019-10-31,Monthly,14.06,3173429.0,38.45,Urban,Pre-COVID
+Bihar,2019-11-30,Monthly,17.62,3081077.0,38.86,Urban,Pre-COVID
+Bihar,2019-12-31,Monthly,14.91,2977857.0,36.29,Urban,Pre-COVID
+Bihar,2020-01-31,Monthly,20.69,2988665.0,38.99,Urban,Pre-COVID
+Bihar,2020-02-29,Monthly,15.11,3113464.0,37.87,Urban,Pre-COVID
+Bihar,2020-03-31,Monthly,15.73,3049637.0,37.29,Urban,COVID
+Bihar,2020-04-30,Monthly,58.77,1400962.0,34.94,Urban,COVID
+Bihar,2020-05-31,Monthly,37.87,2207026.0,36.45,Urban,COVID
+Bihar,2020-06-30,Monthly,12.45,3124663.0,36.54,Urban,COVID
+Chandigarh,2019-05-31,Monthly,18.35,348042.0,44.89,Urban,Pre-COVID
+Chandigarh,2019-06-30,Monthly,12.4,337145.0,40.44,Urban,Pre-COVID
+Chandigarh,2019-07-31,Monthly,21.8,294379.0,39.47,Urban,Pre-COVID
+Chandigarh,2019-08-31,Monthly,9.52,328282.0,37.95,Urban,Pre-COVID
+Chandigarh,2019-09-30,Monthly,20.14,327239.0,42.77,Urban,Pre-COVID
+Chandigarh,2019-10-31,Monthly,13.99,330856.0,40.06,Urban,Pre-COVID
+Chandigarh,2019-11-30,Monthly,22.05,289593.0,38.6,Urban,Pre-COVID
+Chandigarh,2019-12-31,Monthly,8.33,311146.0,35.19,Urban,Pre-COVID
+Chandigarh,2020-01-31,Monthly,20.0,332062.0,42.94,Urban,Pre-COVID
+Chandigarh,2020-02-29,Monthly,16.67,316887.0,39.25,Urban,Pre-COVID
+Chandigarh,2020-03-31,Monthly,21.43,279839.0,36.68,Urban,COVID
+Chandigarh,2020-06-30,Monthly,7.22,306505.0,33.8,Urban,COVID
+Chhattisgarh,2019-05-31,Monthly,9.77,2223129.0,45.61,Urban,Pre-COVID
+Chhattisgarh,2019-06-30,Monthly,11.77,2192020.0,45.88,Urban,Pre-COVID
+Chhattisgarh,2019-07-31,Monthly,8.17,2285436.0,45.85,Urban,Pre-COVID
+Chhattisgarh,2019-08-31,Monthly,6.29,2392400.0,46.91,Urban,Pre-COVID
+Chhattisgarh,2019-09-30,Monthly,9.46,2311507.0,46.8,Urban,Pre-COVID
+Chhattisgarh,2019-10-31,Monthly,10.27,2297096.0,46.82,Urban,Pre-COVID
+Chhattisgarh,2019-11-30,Monthly,8.32,2341284.0,46.59,Urban,Pre-COVID
+Chhattisgarh,2019-12-31,Monthly,3.57,2415436.0,45.59,Urban,Pre-COVID
+Chhattisgarh,2020-01-31,Monthly,9.01,2315972.0,46.21,Urban,Pre-COVID
+Chhattisgarh,2020-02-29,Monthly,9.79,2347941.0,47.14,Urban,Pre-COVID
+Chhattisgarh,2020-03-31,Monthly,8.21,2407509.0,47.39,Urban,COVID
+Chhattisgarh,2020-04-30,Monthly,20.13,1066126.0,24.06,Urban,COVID
+Chhattisgarh,2020-05-31,Monthly,24.1,1276291.0,30.24,Urban,COVID
+Chhattisgarh,2020-06-30,Monthly,27.07,1602231.0,39.41,Urban,COVID
+Delhi,2019-05-31,Monthly,12.31,5756475.0,44.17,Urban,Pre-COVID
+Delhi,2019-06-30,Monthly,12.76,5550172.0,42.71,Urban,Pre-COVID
+Delhi,2019-07-31,Monthly,14.68,5393091.0,42.34,Urban,Pre-COVID
+Delhi,2019-08-31,Monthly,13.52,5552510.0,42.9,Urban,Pre-COVID
+Delhi,2019-09-30,Monthly,20.59,5642253.0,47.36,Urban,Pre-COVID
+Delhi,2019-10-31,Monthly,12.41,6030363.0,45.78,Urban,Pre-COVID
+Delhi,2019-11-30,Monthly,16.11,5439600.0,43.02,Urban,Pre-COVID
+Delhi,2019-12-31,Monthly,11.07,5718337.0,42.56,Urban,Pre-COVID
+Delhi,2020-01-31,Monthly,22.45,5647493.0,48.09,Urban,Pre-COVID
+Delhi,2020-02-29,Monthly,14.86,5708807.0,44.18,Urban,Pre-COVID
+Delhi,2020-03-31,Monthly,17.09,5401392.0,42.82,Urban,COVID
+Delhi,2020-04-30,Monthly,16.51,3003787.0,23.59,Urban,COVID
+Delhi,2020-05-31,Monthly,45.78,2343783.0,28.28,Urban,COVID
+Delhi,2020-06-30,Monthly,18.11,4306807.0,34.32,Urban,COVID
+Goa,2019-05-31,Monthly,2.75,264855.0,34.17,Urban,Pre-COVID
+Goa,2019-06-30,Monthly,13.33,304015.0,43.96,Urban,Pre-COVID
+Goa,2019-07-31,Monthly,12.28,280367.0,40.0,Urban,Pre-COVID
+Goa,2019-08-31,Monthly,4.9,243277.0,31.97,Urban,Pre-COVID
+Goa,2019-09-30,Monthly,3.16,309643.0,39.92,Urban,Pre-COVID
+Goa,2019-10-31,Monthly,12.31,290264.0,41.27,Urban,Pre-COVID
+Goa,2019-11-30,Monthly,25.2,271612.0,45.22,Urban,Pre-COVID
+Goa,2019-12-31,Monthly,16.22,288154.0,42.77,Urban,Pre-COVID
+Goa,2020-01-31,Monthly,10.92,257814.0,35.95,Urban,Pre-COVID
+Goa,2020-02-29,Monthly,4.31,306396.0,39.73,Urban,Pre-COVID
+Goa,2020-03-31,Monthly,4.76,277093.0,36.05,Urban,COVID
+Goa,2020-04-30,Monthly,11.76,318957.0,44.74,Urban,COVID
+Gujarat,2019-05-31,Monthly,4.09,9686558.0,41.67,Urban,Pre-COVID
+Gujarat,2019-06-30,Monthly,6.31,10144965.0,44.57,Urban,Pre-COVID
+Gujarat,2019-07-31,Monthly,5.15,9828023.0,42.54,Urban,Pre-COVID
+Gujarat,2019-08-31,Monthly,4.2,10228154.0,43.72,Urban,Pre-COVID
+Gujarat,2019-09-30,Monthly,5.96,9609939.0,41.75,Urban,Pre-COVID
+Gujarat,2019-10-31,Monthly,5.45,10474217.0,45.14,Urban,Pre-COVID
+Gujarat,2019-11-30,Monthly,7.53,9896129.0,43.5,Urban,Pre-COVID
+Gujarat,2019-12-31,Monthly,5.71,10172812.0,43.75,Urban,Pre-COVID
+Gujarat,2020-01-31,Monthly,5.82,9824501.0,42.19,Urban,Pre-COVID
+Gujarat,2020-02-29,Monthly,6.04,10784753.0,46.31,Urban,Pre-COVID
+Gujarat,2020-03-31,Monthly,5.39,10083026.0,42.9,Urban,COVID
+Gujarat,2020-04-30,Monthly,25.94,6701284.0,36.33,Urban,COVID
+Gujarat,2020-05-31,Monthly,11.62,6072776.0,27.52,Urban,COVID
+Gujarat,2020-06-30,Monthly,4.54,10574711.0,44.26,Urban,COVID
+Haryana,2019-05-31,Monthly,24.67,2693596.0,43.18,Urban,Pre-COVID
+Haryana,2019-06-30,Monthly,20.42,2845190.0,43.06,Urban,Pre-COVID
+Haryana,2019-07-31,Monthly,25.45,2405973.0,38.77,Urban,Pre-COVID
+Haryana,2019-08-31,Monthly,24.19,2523005.0,39.87,Urban,Pre-COVID
+Haryana,2019-09-30,Monthly,26.84,2675862.0,43.7,Urban,Pre-COVID
+Haryana,2019-10-31,Monthly,21.04,2821456.0,42.58,Urban,Pre-COVID
+Haryana,2019-11-30,Monthly,27.06,2404239.0,39.18,Urban,Pre-COVID
+Haryana,2019-12-31,Monthly,23.65,2548835.0,39.57,Urban,Pre-COVID
+Haryana,2020-01-31,Monthly,27.24,2630938.0,42.75,Urban,Pre-COVID
+Haryana,2020-02-29,Monthly,23.29,2752834.0,42.32,Urban,Pre-COVID
+Haryana,2020-03-31,Monthly,27.14,2275407.0,36.73,Urban,COVID
+Haryana,2020-04-30,Monthly,46.89,1606580.0,35.48,Urban,COVID
+Haryana,2020-05-31,Monthly,38.46,2013083.0,38.27,Urban,COVID
+Haryana,2020-06-30,Monthly,29.41,2304138.0,38.09,Urban,COVID
+Himachal Pradesh,2019-05-31,Monthly,10.88,245668.0,45.27,Urban,Pre-COVID
+Himachal Pradesh,2019-06-30,Monthly,21.43,237576.0,49.58,Urban,Pre-COVID
+Himachal Pradesh,2019-07-31,Monthly,21.51,235894.0,49.22,Urban,Pre-COVID
+Himachal Pradesh,2019-08-31,Monthly,24.48,236315.0,51.17,Urban,Pre-COVID
+Himachal Pradesh,2019-09-30,Monthly,12.0,247210.0,45.87,Urban,Pre-COVID
+Himachal Pradesh,2019-10-31,Monthly,23.77,232322.0,49.69,Urban,Pre-COVID
+Himachal Pradesh,2019-11-30,Monthly,27.27,233029.0,52.17,Urban,Pre-COVID
+Himachal Pradesh,2019-12-31,Monthly,25.32,241366.0,52.55,Urban,Pre-COVID
+Himachal Pradesh,2020-01-31,Monthly,18.15,246596.0,48.92,Urban,Pre-COVID
+Himachal Pradesh,2020-02-29,Monthly,27.31,227804.0,50.82,Urban,Pre-COVID
+Himachal Pradesh,2020-03-31,Monthly,26.44,221432.0,48.74,Urban,COVID
+Himachal Pradesh,2020-04-30,Monthly,2.7,146957.0,24.42,Urban,COVID
+Himachal Pradesh,2020-05-31,Monthly,50.0,134868.0,43.55,Urban,COVID
+Himachal Pradesh,2020-06-30,Monthly,10.81,224902.0,40.66,Urban,COVID
+Jammu & Kashmir,2019-05-31,Monthly,23.04,1130139.0,46.74,Urban,Pre-COVID
+Jammu & Kashmir,2019-06-30,Monthly,19.88,1139815.0,45.17,Urban,Pre-COVID
+Jammu & Kashmir,2019-07-31,Monthly,21.55,1183770.0,47.8,Urban,Pre-COVID
+Jammu & Kashmir,2019-10-31,Monthly,24.06,1029087.0,42.63,Urban,Pre-COVID
+Jammu & Kashmir,2019-11-30,Monthly,14.29,1226793.0,44.92,Urban,Pre-COVID
+Jammu & Kashmir,2019-12-31,Monthly,7.02,1209085.0,40.71,Urban,Pre-COVID
+Jammu & Kashmir,2020-01-31,Monthly,18.54,1079537.0,41.4,Urban,Pre-COVID
+Jammu & Kashmir,2020-02-29,Monthly,19.86,1060116.0,41.23,Urban,Pre-COVID
+Jammu & Kashmir,2020-03-31,Monthly,14.29,998103.0,36.21,Urban,COVID
+Jammu & Kashmir,2020-05-31,Monthly,12.96,937435.0,33.33,Urban,COVID
+Jharkhand,2019-05-31,Monthly,17.23,2404033.0,43.25,Urban,Pre-COVID
+Jharkhand,2019-06-30,Monthly,20.51,2326911.0,43.51,Urban,Pre-COVID
+Jharkhand,2019-07-31,Monthly,15.67,2434579.0,42.82,Urban,Pre-COVID
+Jharkhand,2019-08-31,Monthly,20.25,2335406.0,43.35,Urban,Pre-COVID
+Jharkhand,2019-09-30,Monthly,21.16,2357627.0,44.18,Urban,Pre-COVID
+Jharkhand,2019-10-31,Monthly,19.05,2460196.0,44.82,Urban,Pre-COVID
+Jharkhand,2019-11-30,Monthly,17.34,2424281.0,43.17,Urban,Pre-COVID
+Jharkhand,2019-12-31,Monthly,22.01,2290170.0,43.14,Urban,Pre-COVID
+Jharkhand,2020-01-31,Monthly,22.96,2329293.0,44.33,Urban,Pre-COVID
+Jharkhand,2020-02-29,Monthly,19.67,2493023.0,45.42,Urban,Pre-COVID
+Jharkhand,2020-03-31,Monthly,16.4,2480661.0,43.34,Urban,COVID
+Jharkhand,2020-04-30,Monthly,61.48,1054829.0,39.92,Urban,COVID
+Jharkhand,2020-05-31,Monthly,70.17,830347.0,40.49,Urban,COVID
+Jharkhand,2020-06-30,Monthly,19.38,2244460.0,40.43,Urban,COVID
+Karnataka,2019-05-31,Monthly,6.56,8638239.0,40.62,Urban,Pre-COVID
+Karnataka,2019-06-30,Monthly,5.0,8862498.0,40.89,Urban,Pre-COVID
+Karnataka,2019-07-31,Monthly,2.29,8738029.0,39.09,Urban,Pre-COVID
+Karnataka,2019-08-31,Monthly,1.27,8614340.0,38.04,Urban,Pre-COVID
+Karnataka,2019-09-30,Monthly,3.57,8647794.0,39.0,Urban,Pre-COVID
+Karnataka,2019-10-31,Monthly,3.87,8799249.0,39.7,Urban,Pre-COVID
+Karnataka,2019-11-30,Monthly,3.44,8613835.0,38.6,Urban,Pre-COVID
+Karnataka,2019-12-31,Monthly,1.56,8592376.0,37.66,Urban,Pre-COVID
+Karnataka,2020-01-31,Monthly,3.31,8749154.0,38.94,Urban,Pre-COVID
+Karnataka,2020-02-29,Monthly,2.88,8924061.0,39.45,Urban,Pre-COVID
+Karnataka,2020-03-31,Monthly,4.92,9225835.0,41.55,Urban,COVID
+Karnataka,2020-04-30,Monthly,25.12,7387995.0,42.14,Urban,COVID
+Karnataka,2020-05-31,Monthly,15.88,8669258.0,43.9,Urban,COVID
+Karnataka,2020-06-30,Monthly,6.12,8822411.0,39.93,Urban,COVID
+Kerala,2019-05-31,Monthly,6.11,4605913.0,36.65,Urban,Pre-COVID
+Kerala,2019-06-30,Monthly,6.67,4678374.0,37.42,Urban,Pre-COVID
+Kerala,2019-07-31,Monthly,7.58,4105211.0,33.13,Urban,Pre-COVID
+Kerala,2019-08-31,Monthly,7.69,4448650.0,35.91,Urban,Pre-COVID
+Kerala,2019-09-30,Monthly,5.52,4640642.0,36.57,Urban,Pre-COVID
+Kerala,2019-10-31,Monthly,5.35,4644510.0,36.49,Urban,Pre-COVID
+Kerala,2019-11-30,Monthly,6.71,4062767.0,32.36,Urban,Pre-COVID
+Kerala,2019-12-31,Monthly,7.31,4440283.0,35.56,Urban,Pre-COVID
+Kerala,2020-01-31,Monthly,6.65,4597507.0,36.53,Urban,Pre-COVID
+Kerala,2020-02-29,Monthly,6.08,4624444.0,36.48,Urban,Pre-COVID
+Kerala,2020-03-31,Monthly,9.14,4079775.0,33.24,Urban,COVID
+Kerala,2020-04-30,Monthly,21.43,2179106.0,20.51,Urban,COVID
+Kerala,2020-05-31,Monthly,30.28,2826118.0,29.95,Urban,COVID
+Kerala,2020-06-30,Monthly,12.17,4601293.0,38.68,Urban,COVID
+Madhya Pradesh,2019-05-31,Monthly,3.91,6692720.0,38.96,Urban,Pre-COVID
+Madhya Pradesh,2019-06-30,Monthly,6.38,6509340.0,38.8,Urban,Pre-COVID
+Madhya Pradesh,2019-07-31,Monthly,7.38,6266446.0,37.67,Urban,Pre-COVID
+Madhya Pradesh,2019-08-31,Monthly,6.82,6809834.0,40.6,Urban,Pre-COVID
+Madhya Pradesh,2019-09-30,Monthly,7.0,6655967.0,39.67,Urban,Pre-COVID
+Madhya Pradesh,2019-10-31,Monthly,4.4,6603715.0,38.2,Urban,Pre-COVID
+Madhya Pradesh,2019-11-30,Monthly,6.06,6459457.0,37.94,Urban,Pre-COVID
+Madhya Pradesh,2019-12-31,Monthly,6.2,6787403.0,39.83,Urban,Pre-COVID
+Madhya Pradesh,2020-01-31,Monthly,5.17,6834930.0,39.59,Urban,Pre-COVID
+Madhya Pradesh,2020-02-29,Monthly,4.96,6533435.0,37.68,Urban,Pre-COVID
+Madhya Pradesh,2020-03-31,Monthly,4.8,6386723.0,36.68,Urban,COVID
+Madhya Pradesh,2020-04-30,Monthly,11.94,4802873.0,29.76,Urban,COVID
+Madhya Pradesh,2020-05-31,Monthly,40.49,3879934.0,35.49,Urban,COVID
+Madhya Pradesh,2020-06-30,Monthly,12.72,6221562.0,38.72,Urban,COVID
+Maharashtra,2019-05-31,Monthly,6.08,16962574.0,38.3,Urban,Pre-COVID
+Maharashtra,2019-06-30,Monthly,6.46,17375053.0,39.3,Urban,Pre-COVID
+Maharashtra,2019-07-31,Monthly,6.35,17215677.0,38.81,Urban,Pre-COVID
+Maharashtra,2019-08-31,Monthly,7.57,16602767.0,37.84,Urban,Pre-COVID
+Maharashtra,2019-09-30,Monthly,7.6,17396398.0,39.58,Urban,Pre-COVID
+Maharashtra,2019-10-31,Monthly,7.51,17221991.0,39.05,Urban,Pre-COVID
+Maharashtra,2019-11-30,Monthly,7.6,17486683.0,39.61,Urban,Pre-COVID
+Maharashtra,2019-12-31,Monthly,7.83,16581144.0,37.57,Urban,Pre-COVID
+Maharashtra,2020-01-31,Monthly,6.67,16715470.0,37.32,Urban,Pre-COVID
+Maharashtra,2020-02-29,Monthly,5.34,17122782.0,37.61,Urban,Pre-COVID
+Maharashtra,2020-03-31,Monthly,6.34,17065830.0,37.8,Urban,COVID
+Maharashtra,2020-04-30,Monthly,14.99,12674451.0,30.86,Urban,COVID
+Maharashtra,2020-05-31,Monthly,15.92,12365754.0,30.38,Urban,COVID
+Maharashtra,2020-06-30,Monthly,10.01,16172690.0,37.04,Urban,COVID
+Meghalaya,2019-05-31,Monthly,8.4,228978.0,47.79,Urban,Pre-COVID
+Meghalaya,2019-06-30,Monthly,8.66,231252.0,48.29,Urban,Pre-COVID
+Meghalaya,2019-07-31,Monthly,4.43,284015.0,56.55,Urban,Pre-COVID
+Meghalaya,2019-08-31,Monthly,5.8,259433.0,52.27,Urban,Pre-COVID
+Meghalaya,2019-09-30,Monthly,5.3,253887.0,50.77,Urban,Pre-COVID
+Meghalaya,2019-10-31,Monthly,7.2,234375.0,47.71,Urban,Pre-COVID
+Meghalaya,2019-11-30,Monthly,3.02,293431.0,57.02,Urban,Pre-COVID
+Meghalaya,2019-12-31,Monthly,5.21,267417.0,53.04,Urban,Pre-COVID
+Meghalaya,2020-01-31,Monthly,4.76,261687.0,51.53,Urban,Pre-COVID
+Meghalaya,2020-02-29,Monthly,7.37,233965.0,47.26,Urban,Pre-COVID
+Meghalaya,2020-03-31,Monthly,2.8,289735.0,55.64,Urban,COVID
+Meghalaya,2020-04-30,Monthly,17.39,161939.0,36.51,Urban,COVID
+Meghalaya,2020-05-31,Monthly,14.58,222916.0,48.48,Urban,COVID
+Odisha,2019-05-31,Monthly,2.95,2519582.0,41.26,Urban,Pre-COVID
+Odisha,2019-06-30,Monthly,2.63,2356290.0,38.39,Urban,Pre-COVID
+Odisha,2019-07-31,Monthly,1.78,2542237.0,40.99,Urban,Pre-COVID
+Odisha,2019-08-31,Monthly,3.5,2456983.0,40.25,Urban,Pre-COVID
+Odisha,2019-09-30,Monthly,3.78,2570663.0,42.15,Urban,Pre-COVID
+Odisha,2019-10-31,Monthly,4.5,2456855.0,40.51,Urban,Pre-COVID
+Odisha,2019-11-30,Monthly,2.23,2594469.0,41.71,Urban,Pre-COVID
+Odisha,2019-12-31,Monthly,3.36,2369048.0,38.46,Urban,Pre-COVID
+Odisha,2020-01-31,Monthly,2.28,2561320.0,41.05,Urban,Pre-COVID
+Odisha,2020-02-29,Monthly,2.19,2438080.0,38.97,Urban,Pre-COVID
+Odisha,2020-03-31,Monthly,3.96,2457952.0,39.93,Urban,COVID
+Odisha,2020-04-30,Monthly,20.5,1303244.0,25.53,Urban,COVID
+Odisha,2020-05-31,Monthly,10.0,1975481.0,34.12,Urban,COVID
+Odisha,2020-06-30,Monthly,2.18,2221069.0,35.24,Urban,COVID
+Puducherry,2019-05-31,Monthly,1.25,283905.0,35.71,Urban,Pre-COVID
+Puducherry,2019-06-30,Monthly,0.0,304369.0,37.73,Urban,Pre-COVID
+Puducherry,2019-07-31,Monthly,0.0,281117.0,34.77,Urban,Pre-COVID
+Puducherry,2019-08-31,Monthly,8.95,312882.0,42.41,Urban,Pre-COVID
+Puducherry,2019-09-30,Monthly,1.22,286573.0,35.73,Urban,Pre-COVID
+Puducherry,2019-10-31,Monthly,1.17,312548.0,38.86,Urban,Pre-COVID
+Puducherry,2019-11-30,Monthly,1.37,275003.0,34.19,Urban,Pre-COVID
+Puducherry,2019-12-31,Monthly,5.21,313135.0,40.42,Urban,Pre-COVID
+Puducherry,2020-01-31,Monthly,0.57,281698.0,34.59,Urban,Pre-COVID
+Puducherry,2020-02-29,Monthly,1.78,310342.0,38.5,Urban,Pre-COVID
+Puducherry,2020-03-31,Monthly,0.62,278851.0,34.12,Urban,COVID
+Puducherry,2020-04-30,Monthly,76.74,68122.0,35.54,Urban,COVID
+Puducherry,2020-05-31,Monthly,75.0,64538.0,31.25,Urban,COVID
+Puducherry,2020-06-30,Monthly,4.55,234926.0,29.73,Urban,COVID
+Punjab,2019-05-31,Monthly,13.49,3289918.0,40.03,Urban,Pre-COVID
+Punjab,2019-06-30,Monthly,13.17,3307798.0,40.02,Urban,Pre-COVID
+Punjab,2019-07-31,Monthly,11.61,3592442.0,42.62,Urban,Pre-COVID
+Punjab,2019-08-31,Monthly,11.99,3499863.0,41.61,Urban,Pre-COVID
+Punjab,2019-09-30,Monthly,15.69,3227178.0,39.97,Urban,Pre-COVID
+Punjab,2019-10-31,Monthly,13.75,3070438.0,37.1,Urban,Pre-COVID
+Punjab,2019-11-30,Monthly,10.39,3602243.0,41.82,Urban,Pre-COVID
+Punjab,2019-12-31,Monthly,11.97,3575778.0,42.17,Urban,Pre-COVID
+Punjab,2020-01-31,Monthly,13.68,3252622.0,39.04,Urban,Pre-COVID
+Punjab,2020-02-29,Monthly,11.99,3219227.0,37.82,Urban,Pre-COVID
+Punjab,2020-03-31,Monthly,9.97,3601793.0,41.29,Urban,COVID
+Punjab,2020-04-30,Monthly,1.13,2298975.0,23.95,Urban,COVID
+Punjab,2020-05-31,Monthly,20.54,2682658.0,34.71,Urban,COVID
+Punjab,2020-06-30,Monthly,10.55,3047750.0,34.96,Urban,COVID
+Rajasthan,2019-05-31,Monthly,13.62,5108436.0,39.44,Urban,Pre-COVID
+Rajasthan,2019-06-30,Monthly,14.36,5241174.0,40.73,Urban,Pre-COVID
+Rajasthan,2019-07-31,Monthly,11.67,5372470.0,40.38,Urban,Pre-COVID
+Rajasthan,2019-08-31,Monthly,14.71,5195170.0,40.34,Urban,Pre-COVID
+Rajasthan,2019-09-30,Monthly,12.63,5176819.0,39.15,Urban,Pre-COVID
+Rajasthan,2019-10-31,Monthly,13.02,5384335.0,40.8,Urban,Pre-COVID
+Rajasthan,2019-11-30,Monthly,14.3,5306715.0,40.73,Urban,Pre-COVID
+Rajasthan,2019-12-31,Monthly,18.04,5109481.0,40.9,Urban,Pre-COVID
+Rajasthan,2020-01-31,Monthly,18.82,5157363.0,41.59,Urban,Pre-COVID
+Rajasthan,2020-02-29,Monthly,17.02,5288343.0,41.62,Urban,Pre-COVID
+Rajasthan,2020-03-31,Monthly,18.54,4964911.0,39.71,Urban,COVID
+Rajasthan,2020-04-30,Monthly,35.53,2932923.0,29.57,Urban,COVID
+Rajasthan,2020-05-31,Monthly,25.35,4225486.0,36.71,Urban,COVID
+Rajasthan,2020-06-30,Monthly,13.04,5275784.0,39.26,Urban,COVID
+Sikkim,2019-05-31,Monthly,8.2,89587.0,48.61,Urban,Pre-COVID
+Sikkim,2019-06-30,Monthly,7.76,89702.0,48.13,Urban,Pre-COVID
+Sikkim,2019-07-31,Monthly,2.56,108334.0,54.67,Urban,Pre-COVID
+Sikkim,2019-08-31,Monthly,4.82,90850.0,46.63,Urban,Pre-COVID
+Sikkim,2019-09-30,Monthly,4.81,89450.0,45.61,Urban,Pre-COVID
+Sikkim,2019-10-31,Monthly,9.68,87974.0,46.97,Urban,Pre-COVID
+Sikkim,2019-11-30,Monthly,4.04,107751.0,53.8,Urban,Pre-COVID
+Sikkim,2019-12-31,Monthly,7.37,88035.0,45.24,Urban,Pre-COVID
+Sikkim,2020-03-31,Monthly,20.45,86186.0,50.57,Urban,COVID
+Sikkim,2020-04-30,Monthly,5.77,81905.0,40.31,Urban,COVID
+Sikkim,2020-05-31,Monthly,19.75,75456.0,43.32,Urban,COVID
+Sikkim,2020-06-30,Monthly,2.63,76269.0,35.85,Urban,COVID
+Tamil Nadu,2019-05-31,Monthly,0.89,11798080.0,37.31,Urban,Pre-COVID
+Tamil Nadu,2019-06-30,Monthly,1.56,12318745.0,39.16,Urban,Pre-COVID
+Tamil Nadu,2019-07-31,Monthly,3.18,12054414.0,38.89,Urban,Pre-COVID
+Tamil Nadu,2019-08-31,Monthly,9.53,11933093.0,41.13,Urban,Pre-COVID
+Tamil Nadu,2019-09-30,Monthly,1.86,11902824.0,37.76,Urban,Pre-COVID
+Tamil Nadu,2019-10-31,Monthly,1.13,12223948.0,38.42,Urban,Pre-COVID
+Tamil Nadu,2019-11-30,Monthly,2.65,11729952.0,37.38,Urban,Pre-COVID
+Tamil Nadu,2019-12-31,Monthly,8.05,12260389.0,41.29,Urban,Pre-COVID
+Tamil Nadu,2020-01-31,Monthly,2.05,11926995.0,37.64,Urban,Pre-COVID
+Tamil Nadu,2020-02-29,Monthly,3.31,11742101.0,37.48,Urban,Pre-COVID
+Tamil Nadu,2020-03-31,Monthly,6.46,10982178.0,36.17,Urban,COVID
+Tamil Nadu,2020-04-30,Monthly,45.55,4632967.0,26.17,Urban,COVID
+Tamil Nadu,2020-05-31,Monthly,25.95,5733921.0,23.77,Urban,COVID
+Tamil Nadu,2020-06-30,Monthly,24.93,7741005.0,31.6,Urban,COVID
+Telangana,2019-05-31,Monthly,1.52,5560649.0,44.59,Urban,Pre-COVID
+Telangana,2019-06-30,Monthly,1.43,5683349.0,45.43,Urban,Pre-COVID
+Telangana,2019-07-31,Monthly,3.73,5432503.0,44.36,Urban,Pre-COVID
+Telangana,2019-08-31,Monthly,4.19,5544693.0,45.39,Urban,Pre-COVID
+Telangana,2019-09-30,Monthly,6.19,5668785.0,47.28,Urban,Pre-COVID
+Telangana,2019-10-31,Monthly,6.74,5318341.0,44.51,Urban,Pre-COVID
+Telangana,2019-11-30,Monthly,5.23,5338119.0,43.87,Urban,Pre-COVID
+Telangana,2019-12-31,Monthly,4.22,5317782.0,43.13,Urban,Pre-COVID
+Telangana,2020-01-31,Monthly,6.49,5543380.0,45.95,Urban,Pre-COVID
+Telangana,2020-02-29,Monthly,6.74,5521496.0,45.78,Urban,Pre-COVID
+Telangana,2020-03-31,Monthly,6.1,5313236.0,43.65,Urban,COVID
+Telangana,2020-04-30,Monthly,10.5,3378431.0,29.05,Urban,COVID
+Telangana,2020-05-31,Monthly,36.57,3108830.0,37.63,Urban,COVID
+Telangana,2020-06-30,Monthly,6.92,4577995.0,37.68,Urban,COVID
+Tripura,2019-05-31,Monthly,34.69,423127.0,69.5,Urban,Pre-COVID
+Tripura,2019-06-30,Monthly,25.59,408738.0,58.8,Urban,Pre-COVID
+Tripura,2019-07-31,Monthly,25.81,410583.0,59.1,Urban,Pre-COVID
+Tripura,2019-08-31,Monthly,33.45,368977.0,59.07,Urban,Pre-COVID
+Tripura,2019-09-30,Monthly,33.57,418043.0,66.9,Urban,Pre-COVID
+Tripura,2019-10-31,Monthly,26.67,414808.0,60.0,Urban,Pre-COVID
+Tripura,2019-11-30,Monthly,27.15,427700.0,62.14,Urban,Pre-COVID
+Tripura,2019-12-31,Monthly,33.48,399427.0,63.41,Urban,Pre-COVID
+Tripura,2020-01-31,Monthly,34.37,450155.0,72.26,Urban,Pre-COVID
+Tripura,2020-02-29,Monthly,33.88,415339.0,66.04,Urban,Pre-COVID
+Tripura,2020-03-31,Monthly,25.69,450271.0,63.56,Urban,COVID
+Tripura,2020-04-30,Monthly,34.88,296431.0,47.65,Urban,COVID
+Tripura,2020-05-31,Monthly,16.78,384999.0,48.31,Urban,COVID
+Tripura,2020-06-30,Monthly,27.47,391015.0,56.17,Urban,COVID
+Uttar Pradesh,2019-05-31,Monthly,14.4,13391244.0,40.43,Urban,Pre-COVID
+Uttar Pradesh,2019-06-30,Monthly,11.62,13624452.0,39.75,Urban,Pre-COVID
+Uttar Pradesh,2019-07-31,Monthly,11.8,13862431.0,40.43,Urban,Pre-COVID
+Uttar Pradesh,2019-08-31,Monthly,14.73,13580241.0,40.87,Urban,Pre-COVID
+Uttar Pradesh,2019-09-30,Monthly,13.58,13522970.0,40.07,Urban,Pre-COVID
+Uttar Pradesh,2019-10-31,Monthly,10.35,13938303.0,39.71,Urban,Pre-COVID
+Uttar Pradesh,2019-11-30,Monthly,11.31,14128888.0,40.6,Urban,Pre-COVID
+Uttar Pradesh,2019-12-31,Monthly,12.37,13857200.0,40.21,Urban,Pre-COVID
+Uttar Pradesh,2020-01-31,Monthly,12.34,13656250.0,39.52,Urban,Pre-COVID
+Uttar Pradesh,2020-02-29,Monthly,11.65,13803099.0,39.54,Urban,Pre-COVID
+Uttar Pradesh,2020-03-31,Monthly,12.32,13889632.0,40.0,Urban,COVID
+Uttar Pradesh,2020-04-30,Monthly,26.94,10944379.0,37.74,Urban,COVID
+Uttar Pradesh,2020-05-31,Monthly,32.06,11111486.0,41.1,Urban,COVID
+Uttar Pradesh,2020-06-30,Monthly,13.05,13208724.0,38.09,Urban,COVID
+Uttarakhand,2019-05-31,Monthly,9.17,676797.0,26.33,Urban,Pre-COVID
+Uttarakhand,2019-06-30,Monthly,4.69,906889.0,33.54,Urban,Pre-COVID
+Uttarakhand,2019-07-31,Monthly,6.94,859900.0,32.48,Urban,Pre-COVID
+Uttarakhand,2019-08-31,Monthly,7.43,823967.0,31.21,Urban,Pre-COVID
+Uttarakhand,2019-09-30,Monthly,9.62,711150.0,27.51,Urban,Pre-COVID
+Uttarakhand,2019-10-31,Monthly,4.72,925174.0,33.87,Urban,Pre-COVID
+Uttarakhand,2019-11-30,Monthly,6.34,904903.0,33.61,Urban,Pre-COVID
+Uttarakhand,2019-12-31,Monthly,7.39,844779.0,31.65,Urban,Pre-COVID
+Uttarakhand,2020-01-31,Monthly,8.92,725253.0,27.55,Urban,Pre-COVID
+Uttarakhand,2020-02-29,Monthly,5.28,963408.0,35.11,Urban,Pre-COVID
+Uttarakhand,2020-03-31,Monthly,8.15,889245.0,33.33,Urban,COVID
+Uttarakhand,2020-04-30,Monthly,13.18,748041.0,29.59,Urban,COVID
+Uttarakhand,2020-05-31,Monthly,17.36,778590.0,32.27,Urban,COVID
+Uttarakhand,2020-06-30,Monthly,5.08,989470.0,35.61,Urban,COVID
+West Bengal,2019-05-31,Monthly,7.25,11306177.0,46.37,Urban,Pre-COVID
+West Bengal,2019-06-30,Monthly,7.38,10611498.0,43.51,Urban,Pre-COVID
+West Bengal,2019-07-31,Monthly,7.91,10779829.0,44.38,Urban,Pre-COVID
+West Bengal,2019-08-31,Monthly,7.27,11456493.0,46.77,Urban,Pre-COVID
+West Bengal,2019-09-30,Monthly,7.79,11158649.0,45.74,Urban,Pre-COVID
+West Bengal,2019-10-31,Monthly,7.83,10563686.0,43.25,Urban,Pre-COVID
+West Bengal,2019-11-30,Monthly,6.61,10768462.0,43.44,Urban,Pre-COVID
+West Bengal,2019-12-31,Monthly,7.24,11335696.0,45.97,Urban,Pre-COVID
+West Bengal,2020-01-31,Monthly,7.27,11208617.0,45.39,Urban,Pre-COVID
+West Bengal,2020-02-29,Monthly,7.55,10871168.0,44.09,Urban,Pre-COVID
+West Bengal,2020-03-31,Monthly,6.67,10806105.0,43.34,Urban,COVID
+West Bengal,2020-04-30,Monthly,15.63,9299466.0,41.2,Urban,COVID
+West Bengal,2020-05-31,Monthly,15.22,9240903.0,40.67,Urban,COVID
+West Bengal,2020-06-30,Monthly,9.86,9088931.0,37.57,Urban,COVID

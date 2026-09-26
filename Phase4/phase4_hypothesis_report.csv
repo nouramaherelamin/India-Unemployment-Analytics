@@ -1,0 +1,7 @@
+Test,Null_Hypothesis,Primary_Result,p_value,Effect_Size,Conclusion_At_0.05
+Spearman: Unemployment vs Labour Participation,There is no monotonic association between unemployment and labour participation.,rho = -0.0236,0.5221024976741689,-0.023567404378492026,Fail to reject H0
+Spearman: Unemployment vs Employment,There is no monotonic association between unemployment and employment.,rho = -0.2166,2.635869709138574e-09,-0.2165928004025128,Reject H0
+Mann-Whitney U: Rural vs Urban — Pre-COVID,The Rural and Urban unemployment distributions do not differ.,U = 27088.50,9.308951605523618e-07,-0.24502508361204012,Reject H0
+Mann-Whitney U: Rural vs Urban — COVID,The Rural and Urban unemployment distributions do not differ.,U = 4476.00,0.08708966911728647,-0.13881673881673884,Fail to reject H0
+Kruskal-Wallis: Regional Differences — Pre-COVID,The unemployment distributions are the same across the 20 fully covered regions.,H = 324.92,1.524753157106673e-57,0.8050428608433422,Reject H0
+Kruskal-Wallis: Regional Differences — COVID,The unemployment distributions are the same across the 20 fully covered regions.,H = 43.57,0.0010836168022032597,0.17548047584726933,Reject H0

@@ -1,0 +1,8 @@
+Column,Data Type,Role,Description,Expected Values / Range,Missing Values,Unique Values
+Region,object,Categorical identifier,Indian state or union territory represented by the observation.,28 unique regions,0,28
+Date,datetime64[ns],Time variable,Monthly observation date.,2019-05-31 to 2020-06-30,0,14
+Frequency,object,Frequency indicator,Reporting frequency of the observation.,Monthly,0,1
+Estimated Unemployment Rate (%),float64,Primary outcome,Estimated unemployment rate as a percentage.,0.00 to 76.74,0,624
+Estimated Employed,float64,Labour-market measure,Estimated number of employed people.,"49,420 to 45,777,509",0,740
+Estimated Labour Participation Rate (%),float64,Labour-market measure,Estimated labour participation rate as a percentage.,13.33 to 72.57,0,626
+Period,object,Analytical period flag,Derived analysis period: Pre-COVID before March 2020; COVID from March 2020 onward.,Pre-COVID / COVID,0,2

@@ -1,0 +1,7 @@
+Topic,Interpretation
+Level stationarity,ADF and KPSS are not fully concordant; interpret stationarity cautiously because the series has only 14 observations and a COVID shock.
+First-difference stationarity,First-difference tests are not fully concordant; treat as diagnostic only.
+Autocorrelation,ACF/PACF are exploratory because only 14 monthly observations are available; apparent lag structure should not be over-interpreted.
+Sample-size limitation,"With 14 observations, classical time-series identification is fragile. Pre-COVID has only 10 observations and COVID has only 4."
+COVID structural shock,April-May 2020 contains an extreme structural shock. It can create large autocorrelation/level shifts that are not ordinary seasonality.
+Forecasting implication,Any forecasting model should be explicitly scoped and simple; long-horizon forecasting or seasonal model selection is not justified by this short series alone.

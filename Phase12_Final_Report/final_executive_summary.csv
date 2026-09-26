@@ -1,0 +1,18 @@
+Metric,Result
+Project,Labour Market Shockwaves
+Dataset,Unemployment in India
+Coverage,May 2019 – June 2020
+Clean observations,740
+Regions,28
+Fully covered regions,20
+Incomplete regions,8
+Pre-COVID mean unemployment,9.508%
+COVID mean unemployment,17.780%
+COVID shock,+8.272 pp (+86.997%)
+Peak national unemployment,24.875% (2020-05-31)
+Largest regional shock,Puducherry (+37.362 pp)
+Data-quality anomalies,0
+COVID extreme anomaly flags,79
+Selected cluster count,2
+Best forecasting benchmark,Drift (MAE 4.712)
+Long-horizon forecasting supported,No

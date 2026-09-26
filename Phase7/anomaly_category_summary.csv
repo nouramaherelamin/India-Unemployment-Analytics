@@ -1,0 +1,4 @@
+Anomaly_Category,Observations,Regions,Mean_Unemployment,Median_Unemployment,Min_Unemployment,Max_Unemployment
+Legitimate COVID extreme event,79,27,27.32772151898734,22.46,0.0,76.74
+Noteworthy / unexplained,71,26,9.028591549295774,6.61,0.52,31.91
+COVID-period noteworthy anomaly,23,18,12.795217391304348,10.71,0.0,27.66

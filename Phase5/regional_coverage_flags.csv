@@ -1,0 +1,29 @@
+Region,Rural,Urban,Rural_Complete,Urban_Complete,Region_Fully_Covered
+Andhra Pradesh,14.0,14.0,True,True,True
+Assam,12.0,14.0,False,True,False
+Bihar,14.0,14.0,True,True,True
+Chandigarh,0.0,12.0,False,False,False
+Chhattisgarh,14.0,14.0,True,True,True
+Delhi,14.0,14.0,True,True,True
+Goa,12.0,12.0,False,False,False
+Gujarat,14.0,14.0,True,True,True
+Haryana,14.0,14.0,True,True,True
+Himachal Pradesh,14.0,14.0,True,True,True
+Jammu & Kashmir,11.0,10.0,False,False,False
+Jharkhand,14.0,14.0,True,True,True
+Karnataka,14.0,14.0,True,True,True
+Kerala,14.0,14.0,True,True,True
+Madhya Pradesh,14.0,14.0,True,True,True
+Maharashtra,14.0,14.0,True,True,True
+Meghalaya,14.0,13.0,True,False,False
+Odisha,14.0,14.0,True,True,True
+Puducherry,12.0,14.0,False,True,False
+Punjab,14.0,14.0,True,True,True
+Rajasthan,14.0,14.0,True,True,True
+Sikkim,5.0,12.0,False,False,False
+Tamil Nadu,14.0,14.0,True,True,True
+Telangana,14.0,14.0,True,True,True
+Tripura,14.0,14.0,True,True,True
+Uttar Pradesh,14.0,14.0,True,True,True
+Uttarakhand,13.0,14.0,False,True,False
+West Bengal,14.0,14.0,True,True,True

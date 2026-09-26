@@ -1,0 +1,3 @@
+Comparison,N,Pearson_r,Pearson_p_value,Spearman_rho,Spearman_p_value,Interpretation
+Unemployment vs Labour Participation,740,0.0025579648339084347,0.9446181796468062,-0.023567404378492026,0.5221024976741689,Very weak negative association
+Unemployment vs Employment,740,-0.22287639952214797,8.792864179722567e-10,-0.2165928004025128,2.635869709138574e-09,Negative association

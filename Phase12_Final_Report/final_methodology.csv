@@ -1,0 +1,13 @@
+Phase,Component,Method
+1,Cleaning,Removed fully blank rows; normalized fields; parsed dates; validated ranges and duplicates.
+2,Coverage,"Audited region, area and month completeness; identified 20 fully covered regions."
+3,EDA,"Descriptive statistics, national trends, period comparisons, area comparisons and correlations."
+4,Statistics,"Spearman/Pearson, Mann-Whitney U, Kruskal-Wallis and effect sizes."
+5,Regional profiling,"Baseline, shock, volatility, trend and recovery descriptors."
+6,Clustering,"Standardization, PCA and K-Means; k selected using silhouette/elbow diagnostics."
+7,Anomalies,IQR and trailing 3-month rolling z-score; contextual classification.
+8,Time series,"ADF, KPSS, ACF, PACF and first-difference diagnostics."
+9,Forecasting,Rolling-origin one-step-ahead benchmark across simple and autoregressive models.
+10,Synthesis,"Integrated findings, evidence matrix, dashboard KPIs and limitations."
+11,Dashboard,Streamlit/Plotly interactive dashboard with filters and analytical sections.
+12,Final report,Integrated final report and project deliverables.

@@ -1,0 +1,56 @@
+Region,Area,Observations,Unique_Months,Min_Date,Max_Date,Expected_Months,Missing_Months,Coverage_%,Complete_14_Months
+Andhra Pradesh,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Andhra Pradesh,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Assam,Rural,12,12,2019-05-31,2020-06-30,14,2,85.71,False
+Assam,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Bihar,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Bihar,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Chandigarh,Urban,12,12,2019-05-31,2020-06-30,14,2,85.71,False
+Chhattisgarh,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Chhattisgarh,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Delhi,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Delhi,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Goa,Rural,12,12,2019-05-31,2020-05-31,14,2,85.71,False
+Goa,Urban,12,12,2019-05-31,2020-04-30,14,2,85.71,False
+Gujarat,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Gujarat,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Haryana,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Haryana,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Himachal Pradesh,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Himachal Pradesh,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Jammu & Kashmir,Rural,11,11,2019-05-31,2020-06-30,14,3,78.57,False
+Jammu & Kashmir,Urban,10,10,2019-05-31,2020-05-31,14,4,71.43,False
+Jharkhand,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Jharkhand,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Karnataka,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Karnataka,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Kerala,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Kerala,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Madhya Pradesh,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Madhya Pradesh,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Maharashtra,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Maharashtra,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Meghalaya,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Meghalaya,Urban,13,13,2019-05-31,2020-05-31,14,1,92.86,False
+Odisha,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Odisha,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Puducherry,Rural,12,12,2019-05-31,2020-04-30,14,2,85.71,False
+Puducherry,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Punjab,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Punjab,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Rajasthan,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Rajasthan,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Sikkim,Rural,5,5,2019-10-31,2020-06-30,14,9,35.71,False
+Sikkim,Urban,12,12,2019-05-31,2020-06-30,14,2,85.71,False
+Tamil Nadu,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Tamil Nadu,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Telangana,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Telangana,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Tripura,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Tripura,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Uttar Pradesh,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Uttar Pradesh,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+Uttarakhand,Rural,13,13,2019-05-31,2020-06-30,14,1,92.86,False
+Uttarakhand,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+West Bengal,Rural,14,14,2019-05-31,2020-06-30,14,0,100.0,True
+West Bengal,Urban,14,14,2019-05-31,2020-06-30,14,0,100.0,True

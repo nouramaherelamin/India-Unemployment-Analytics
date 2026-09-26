@@ -1,0 +1,13 @@
+Metric,Value
+Monthly observations,14
+Pre-COVID months,10
+COVID months,4
+ADF level p-value,0.9989911349497571
+KPSS level p-value,0.0756382599409268
+ADF first-difference p-value,0.10316229661990889
+KPSS first-difference p-value,0.1
+Maximum ACF lag evaluated,5
+Maximum PACF lag evaluated,5
+Peak unemployment,24.875294117647062
+Peak month,2020-05-31
+Largest absolute month-to-month change,12.971694117647063

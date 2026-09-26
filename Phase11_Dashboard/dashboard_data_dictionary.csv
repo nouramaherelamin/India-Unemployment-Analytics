@@ -1,0 +1,13 @@
+File,Purpose,Source Phase
+cleaned_data.csv,Cleaned master dataset,Phase 1
+regional_profiles.csv,"Regional baseline, shock, trend and recovery profiles",Phase 5
+regional_shock_ranking.csv,Regional COVID shock values,Phase 5
+cluster_membership.csv,Region-to-cluster assignments,Phase 6
+cluster_profiles.csv,Cluster-level feature profiles,Phase 6
+anomaly_log.csv,Flagged anomaly observations,Phase 7
+stationarity_tests.csv,ADF/KPSS time-series diagnostics,Phase 8
+forecast_model_metrics.csv,Rolling-origin forecast metrics,Phase 9
+rolling_origin_forecast_values.csv,Actual and one-step forecast values,Phase 9
+phase10_summary.csv,Project synthesis KPIs,Phase 10
+phase10_key_findings.csv,Integrated analytical findings,Phase 10
+phase10_limitations.csv,Limitations register,Phase 10

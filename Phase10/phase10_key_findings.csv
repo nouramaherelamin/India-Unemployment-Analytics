@@ -1,0 +1,11 @@
+Finding_ID,Theme,Finding,Evidence,Caveat
+F01,National shock,Mean unemployment increased materially during COVID.,9.510% to 17.774% (+8.264 pp; +86.898%).,Descriptive; only 4 COVID months.
+F02,Peak timing,National monthly unemployment peaked in May 2020.,24.875% on 2020-05-31.,Observed dataset value.
+F03,Regional heterogeneity,Regions differed substantially in shock magnitude.,Largest: Puducherry (+37.362 pp); smallest: Jammu & Kashmir (-4.332 pp).,Incomplete regions require caution.
+F04,Rural vs Urban,Pre-COVID distributions differed; balanced COVID comparison was not significant.,p=0.00039 pre-COVID vs p=0.14983 COVID.,Small effect sizes; non-causal.
+F05,Regional differences,Regional distributions differed strongly in both periods.,Kruskal-Wallis p<0.001 pre-COVID; p=0.00108 COVID.,20 fully covered regions.
+F06,Participation,Overall unemployment-participation monotonic association was very weak.,Overall Spearman rho=-0.02357; pre=0.09854; COVID=-0.07635.,Correlation is not causation.
+F07,Employment,Unemployment and estimated employment had a negative overall association.,Overall Spearman rho=-0.21659.,Observational association.
+F08,Anomalies,Extreme flags concentrated around COVID; no hard data-quality anomalies.,79 COVID extreme + 23 COVID noteworthy; 0 data-quality.,71 unexplained flags need context.
+F09,Time series,Stationarity evidence was non-concordant.,ADF p=0.99899; KPSS p=0.07564.,14 observations + structural shock.
+F10,Forecasting,Simple benchmarks were more stable in rolling-origin backtesting.,Drift MAE=4.712; Naive MAE=4.725; COVID best=Drift MAE=6.947.,Only 6 test origins per model.

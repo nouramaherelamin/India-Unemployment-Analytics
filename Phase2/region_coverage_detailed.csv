@@ -1,0 +1,29 @@
+Region,Area_Count,Total_Observations,Total_Unique_Months,Complete_Area_Series,Expected_Areas,Expected_Observations,Missing_Observations,Fully_Covered_Region,Rural_Complete,Urban_Complete,Usable_for_Balanced_Rural_Urban
+Andhra Pradesh,2,28,28,2,2,28,0,True,True,True,True
+Assam,2,26,26,1,2,28,2,False,False,True,False
+Bihar,2,28,28,2,2,28,0,True,True,True,True
+Chandigarh,1,12,12,0,2,28,16,False,False,False,False
+Chhattisgarh,2,28,28,2,2,28,0,True,True,True,True
+Delhi,2,28,28,2,2,28,0,True,True,True,True
+Goa,2,24,24,0,2,28,4,False,False,False,False
+Gujarat,2,28,28,2,2,28,0,True,True,True,True
+Haryana,2,28,28,2,2,28,0,True,True,True,True
+Himachal Pradesh,2,28,28,2,2,28,0,True,True,True,True
+Jammu & Kashmir,2,21,21,0,2,28,7,False,False,False,False
+Jharkhand,2,28,28,2,2,28,0,True,True,True,True
+Karnataka,2,28,28,2,2,28,0,True,True,True,True
+Kerala,2,28,28,2,2,28,0,True,True,True,True
+Madhya Pradesh,2,28,28,2,2,28,0,True,True,True,True
+Maharashtra,2,28,28,2,2,28,0,True,True,True,True
+Meghalaya,2,27,27,1,2,28,1,False,True,False,False
+Odisha,2,28,28,2,2,28,0,True,True,True,True
+Puducherry,2,26,26,1,2,28,2,False,False,True,False
+Punjab,2,28,28,2,2,28,0,True,True,True,True
+Rajasthan,2,28,28,2,2,28,0,True,True,True,True
+Sikkim,2,17,17,0,2,28,11,False,False,False,False
+Tamil Nadu,2,28,28,2,2,28,0,True,True,True,True
+Telangana,2,28,28,2,2,28,0,True,True,True,True
+Tripura,2,28,28,2,2,28,0,True,True,True,True
+Uttar Pradesh,2,28,28,2,2,28,0,True,True,True,True
+Uttarakhand,2,27,27,1,2,28,1,False,False,True,False
+West Bengal,2,28,28,2,2,28,0,True,True,True,True

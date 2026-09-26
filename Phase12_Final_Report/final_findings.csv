@@ -1,0 +1,11 @@
+Theme,Finding,Source Phase
+National shock,Mean unemployment increased from 9.508% to 17.780%.,Phase 3
+Peak,Observed national peak was 24.875% in 2020-05-31.,Phase 3
+Regional heterogeneity,Largest regional shock: Puducherry (+37.362 pp).,Phase 5
+Rural/Urban,Balanced-region p=0.00039 pre-COVID and p=0.14983 COVID.,Phase 4
+Regional tests,Kruskal-Wallis significant in both periods; COVID p=0.00108.,Phase 4
+Participation,Overall Spearman rho=-0.02357.,Phase 4
+Anomalies,79 COVID extreme events; 0 data-quality anomalies.,Phase 7
+Time series,ADF p=0.99899; KPSS p=0.07564.,Phase 8
+Forecasting,Drift had lowest rolling-origin MAE (4.712).,Phase 9
+Dashboard,Interactive Streamlit dashboard completed.,Phase 11

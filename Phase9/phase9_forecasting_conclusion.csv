@@ -1,0 +1,5 @@
+Finding,Value,Interpretation
+Best rolling-origin benchmark by MAE,Drift,"Drift had the lowest overall rolling-origin MAE (4.712 percentage points) among the tested models. This is a backtest result, not evidence that the model is universally superior."
+COVID forecasting limitation,Structural shock,April-May 2020 contains a large shock that is difficult to infer from the pre-shock history. COVID-specific errors should therefore be interpreted separately from ordinary forecast performance.
+Seasonal forecasting,Not supported,"There are only 14 monthly observations, so annual seasonality cannot be estimated reliably."
+Long-horizon forecasting,Not recommended from this dataset alone,The dataset is too short and contains a major structural break. Forecasts beyond a very short horizon would be highly assumption-dependent.

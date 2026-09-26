@@ -1,0 +1,9 @@
+ID,Limitation,Evidence,Implication
+L01,Short time series,14 monthly observations,"Limits stationarity, ACF/PACF, forecasting and seasonality."
+L02,COVID structural break,Mar-Jun 2020 shock,Challenges conventional time-series assumptions.
+L03,Incomplete coverage,8 regions incomplete,Prefer fully covered regions for comparisons.
+L04,Small clustering sample,28 regions; one cluster has 4,Cluster boundaries are fragile.
+L05,No causality,Observational data,Correlations/tests do not identify causal effects.
+L06,Anomaly attribution,71 unexplained flags,External context is needed for event attribution.
+L07,Forecast validation,6 test origins/model,"Benchmark is diagnostic, not definitive."
+L08,Area balance,Rural/Urban counts differ overall,Balanced-region robustness test retained.

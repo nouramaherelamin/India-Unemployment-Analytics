@@ -1,0 +1,8 @@
+Question,Phase,Synthesis,Evidence
+National shock,Phase 3,Strong descriptive support,Pre-COVID vs COVID means
+Rural/Urban,Phase 4,Significant pre-COVID; not significant in balanced COVID test,Mann-Whitney
+Regional heterogeneity,Phase 4,Strong distributional differences,Kruskal-Wallis on 20 covered regions
+Participation relationship,Phase 4,Weak overall association,Spearman correlations
+COVID anomalies,Phase 7,Strong concentration around Apr-May,IQR + rolling z-score
+Stationarity,Phase 8,Non-concordant/inconclusive,ADF + KPSS
+Forecasting,Phase 9,Simple benchmarks more stable,Rolling-origin MAE

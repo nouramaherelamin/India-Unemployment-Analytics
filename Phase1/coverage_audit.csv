@@ -1,0 +1,56 @@
+Region,Area,Observations,Expected_14_Months,Coverage_%
+Andhra Pradesh,Rural,14,14,100.0
+Andhra Pradesh,Urban,14,14,100.0
+Assam,Rural,12,14,85.71
+Assam,Urban,14,14,100.0
+Bihar,Rural,14,14,100.0
+Bihar,Urban,14,14,100.0
+Chandigarh,Urban,12,14,85.71
+Chhattisgarh,Rural,14,14,100.0
+Chhattisgarh,Urban,14,14,100.0
+Delhi,Rural,14,14,100.0
+Delhi,Urban,14,14,100.0
+Goa,Rural,12,14,85.71
+Goa,Urban,12,14,85.71
+Gujarat,Rural,14,14,100.0
+Gujarat,Urban,14,14,100.0
+Haryana,Rural,14,14,100.0
+Haryana,Urban,14,14,100.0
+Himachal Pradesh,Rural,14,14,100.0
+Himachal Pradesh,Urban,14,14,100.0
+Jammu & Kashmir,Rural,11,14,78.57
+Jammu & Kashmir,Urban,10,14,71.43
+Jharkhand,Rural,14,14,100.0
+Jharkhand,Urban,14,14,100.0
+Karnataka,Rural,14,14,100.0
+Karnataka,Urban,14,14,100.0
+Kerala,Rural,14,14,100.0
+Kerala,Urban,14,14,100.0
+Madhya Pradesh,Rural,14,14,100.0
+Madhya Pradesh,Urban,14,14,100.0
+Maharashtra,Rural,14,14,100.0
+Maharashtra,Urban,14,14,100.0
+Meghalaya,Rural,14,14,100.0
+Meghalaya,Urban,13,14,92.86
+Odisha,Rural,14,14,100.0
+Odisha,Urban,14,14,100.0
+Puducherry,Rural,12,14,85.71
+Puducherry,Urban,14,14,100.0
+Punjab,Rural,14,14,100.0
+Punjab,Urban,14,14,100.0
+Rajasthan,Rural,14,14,100.0
+Rajasthan,Urban,14,14,100.0
+Sikkim,Rural,5,14,35.71
+Sikkim,Urban,12,14,85.71
+Tamil Nadu,Rural,14,14,100.0
+Tamil Nadu,Urban,14,14,100.0
+Telangana,Rural,14,14,100.0
+Telangana,Urban,14,14,100.0
+Tripura,Rural,14,14,100.0
+Tripura,Urban,14,14,100.0
+Uttar Pradesh,Rural,14,14,100.0
+Uttar Pradesh,Urban,14,14,100.0
+Uttarakhand,Rural,13,14,92.86
+Uttarakhand,Urban,14,14,100.0
+West Bengal,Rural,14,14,100.0
+West Bengal,Urban,14,14,100.0

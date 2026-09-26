@@ -1,0 +1,13 @@
+Phase,Artifact,Description
+Phase 1,/mnt/data/Unemployment_India_Phase1.zip,Cleaning & Validation
+Phase 2,/mnt/data/Unemployment_India_Phase2.zip,Data Dictionary & Coverage
+Phase 3,/mnt/data/Unemployment_India_Phase3.zip,EDA
+Phase 4,/mnt/data/Unemployment_India_Phase4.zip,Statistical Tests
+Phase 5,/mnt/data/Unemployment_India_Phase5.zip,Regional Profiling
+Phase 6,/mnt/data/Unemployment_India_Phase6.zip,Clustering
+Phase 7,/mnt/data/Unemployment_India_Phase7.zip,Anomaly Detection
+Phase 8,/mnt/data/Unemployment_India_Phase8.zip,Time-Series Diagnostics
+Phase 9,/mnt/data/Unemployment_India_Phase9.zip,Forecasting
+Phase 10,/mnt/data/Unemployment_India_Phase10.zip,Insight Synthesis
+Phase 11,/mnt/data/Unemployment_India_Phase11_Dashboard.zip,Dashboard
+Phase 12,Unemployment_India_Phase12_Final_Report.zip,Final Report

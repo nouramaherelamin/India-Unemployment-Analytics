@@ -1,0 +1,11 @@
+Metric,Value
+Total observations analyzed,740
+IQR flags,93
+Rolling z-score flags,127
+Unique observations flagged,173
+Legitimate COVID extreme events,79
+COVID-period noteworthy anomalies,23
+Noteworthy / unexplained anomalies,71
+Data-quality anomalies,0
+Regions with at least one anomaly,28
+Areas with at least one anomaly,2

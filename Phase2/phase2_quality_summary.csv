@@ -1,0 +1,17 @@
+Metric,Value
+Rows,740
+Columns,8
+Regions,28
+Areas,2
+Frequency categories,1
+Date range start,2019-05-31
+Date range end,2020-06-30
+Months,14
+Expected Region-Area-Month cells,784
+Observed Region-Area-Month cells,740
+Missing Region-Area-Month cells,44
+Fully covered regions,20
+Incomplete regions,8
+Fully covered region-area series,44
+Incomplete region-area series,11
+Missing values in all columns,0

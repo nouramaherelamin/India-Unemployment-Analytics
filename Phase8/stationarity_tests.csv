@@ -1,0 +1,5 @@
+Series,Test,N,Statistic,p_value,Lags_Used,Critical_1pct,Critical_5pct,Critical_10pct,Interpretation_5pct
+National monthly unemployment,ADF,14,2.3617088036259077,0.9989911349497571,5,-4.6651863281249994,-3.3671868750000002,-2.802960625,Non-stationary / insufficient evidence of stationarity
+National monthly unemployment,KPSS,14,0.40351923693704983,0.0756382599409268,1,0.739,0.463,0.347,Stationary
+First difference of national unemployment,ADF,13,-2.5527455517227464,0.10316229661990889,4,-4.6651863281249994,-3.3671868750000002,-2.802960625,Non-stationary / insufficient evidence of stationarity
+First difference of national unemployment,KPSS,13,0.07419498233159205,0.1,0,0.739,0.463,0.347,Stationary

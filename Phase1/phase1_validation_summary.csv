@@ -1,0 +1,19 @@
+Metric,Value
+Raw rows,768
+Raw columns,7
+Fully blank rows removed,28
+Clean rows,740
+Clean columns,8
+Date parsing failures,0
+Duplicate Region-Date-Area combinations,0
+"Unemployment values outside [0,100]",0
+"Labour participation values outside [0,100]",0
+Negative employment values,0
+Unique regions,28
+Unique areas,2
+Unique frequencies,1
+Minimum date,2019-05-31
+Maximum date,2020-06-30
+Pre-COVID rows,536
+COVID rows,204
+Incomplete regions,8

@@ -1,0 +1,9 @@
+KPI_ID,KPI,Value,Definition
+KPI01,Pre-COVID Mean Unemployment,9.510%,National baseline
+KPI02,COVID Mean Unemployment,17.774%,National shock-period level
+KPI03,Shock Magnitude,+8.264 pp,COVID minus Pre-COVID
+KPI04,Peak Unemployment,24.875%,2020-05-31
+KPI05,Regions,28,Distinct regions
+KPI06,Fully Covered Regions,20,Preferred regional-comparison subset
+KPI07,COVID Extreme Anomalies,79,Phase 7
+KPI08,Unexplained Flags,71,Need contextual review

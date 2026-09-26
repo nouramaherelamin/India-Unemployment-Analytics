@@ -1,0 +1,8 @@
+Model,Forecast_for_2020_07,Status
+Naive,11.903599999999999,Computed
+Drift,12.13662621082621,Computed
+Simple Exponential Smoothing,16.43737096653219,Computed
+Holt Linear,17.705648874639206,Computed
+AR(1),12.1202935013206,Computed
+AR(2),-3.2429846683523826,Computed
+"ARIMA(1,1,0)",11.284555689761447,Computed

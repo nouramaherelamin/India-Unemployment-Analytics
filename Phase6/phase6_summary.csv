@@ -1,0 +1,12 @@
+Metric,Value
+Regions included in clustering,28.0
+Features used,7.0
+Maximum k evaluated,8.0
+Selected k,2.0
+Best silhouette score,0.4183338346584585
+Selected k inertia,133.40548287715836
+PC1 explained variance,0.5065596795687786
+PC2 explained variance,0.25062506294224035
+PC1 + PC2 explained variance,0.757184742511019
+Smallest cluster size,4.0
+Largest cluster size,24.0

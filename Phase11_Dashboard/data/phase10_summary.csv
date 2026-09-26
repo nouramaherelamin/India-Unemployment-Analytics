@@ -1,0 +1,15 @@
+Topic,Result,Context
+Project,India unemployment,May 2019-Jun 2020
+Rows,740,Cleaned observations
+Regions,28,8 incomplete; 20 fully covered
+Pre-COVID mean,9.510%,May 2019-Feb 2020
+COVID mean,17.774%,Mar-Jun 2020
+Shock,+8.264 pp,+86.898%
+Peak,24.875%,2020-05-31
+Largest regional shock,+37.362 pp,Puducherry
+Regional heterogeneity,Strong,Kruskal-Wallis significant in both periods
+Rural vs Urban,Period-dependent,Significant pre-COVID; not significant balanced COVID test
+Data-quality anomalies,0,None detected
+Stationarity,Inconclusive,Short series + structural shock
+Forecasting,Scoped benchmark,Long-horizon unsupported
+Clustering,k=2,Small-n caution

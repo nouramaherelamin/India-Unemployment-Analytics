@@ -1,0 +1,111 @@
+Region,Area,Period,Observations,Unique_Months,Expected_Months,Complete_Period
+Andhra Pradesh,Rural,COVID,4,4,4,True
+Andhra Pradesh,Rural,Pre-COVID,10,10,10,True
+Andhra Pradesh,Urban,COVID,4,4,4,True
+Andhra Pradesh,Urban,Pre-COVID,10,10,10,True
+Assam,Rural,COVID,3,3,4,False
+Assam,Rural,Pre-COVID,9,9,10,False
+Assam,Urban,COVID,4,4,4,True
+Assam,Urban,Pre-COVID,10,10,10,True
+Bihar,Rural,COVID,4,4,4,True
+Bihar,Rural,Pre-COVID,10,10,10,True
+Bihar,Urban,COVID,4,4,4,True
+Bihar,Urban,Pre-COVID,10,10,10,True
+Chandigarh,Urban,COVID,2,2,4,False
+Chandigarh,Urban,Pre-COVID,10,10,10,True
+Chhattisgarh,Rural,COVID,4,4,4,True
+Chhattisgarh,Rural,Pre-COVID,10,10,10,True
+Chhattisgarh,Urban,COVID,4,4,4,True
+Chhattisgarh,Urban,Pre-COVID,10,10,10,True
+Delhi,Rural,COVID,4,4,4,True
+Delhi,Rural,Pre-COVID,10,10,10,True
+Delhi,Urban,COVID,4,4,4,True
+Delhi,Urban,Pre-COVID,10,10,10,True
+Goa,Rural,COVID,2,2,4,False
+Goa,Rural,Pre-COVID,10,10,10,True
+Goa,Urban,COVID,2,2,4,False
+Goa,Urban,Pre-COVID,10,10,10,True
+Gujarat,Rural,COVID,4,4,4,True
+Gujarat,Rural,Pre-COVID,10,10,10,True
+Gujarat,Urban,COVID,4,4,4,True
+Gujarat,Urban,Pre-COVID,10,10,10,True
+Haryana,Rural,COVID,4,4,4,True
+Haryana,Rural,Pre-COVID,10,10,10,True
+Haryana,Urban,COVID,4,4,4,True
+Haryana,Urban,Pre-COVID,10,10,10,True
+Himachal Pradesh,Rural,COVID,4,4,4,True
+Himachal Pradesh,Rural,Pre-COVID,10,10,10,True
+Himachal Pradesh,Urban,COVID,4,4,4,True
+Himachal Pradesh,Urban,Pre-COVID,10,10,10,True
+Jammu & Kashmir,Rural,COVID,3,3,4,False
+Jammu & Kashmir,Rural,Pre-COVID,8,8,10,False
+Jammu & Kashmir,Urban,COVID,2,2,4,False
+Jammu & Kashmir,Urban,Pre-COVID,8,8,10,False
+Jharkhand,Rural,COVID,4,4,4,True
+Jharkhand,Rural,Pre-COVID,10,10,10,True
+Jharkhand,Urban,COVID,4,4,4,True
+Jharkhand,Urban,Pre-COVID,10,10,10,True
+Karnataka,Rural,COVID,4,4,4,True
+Karnataka,Rural,Pre-COVID,10,10,10,True
+Karnataka,Urban,COVID,4,4,4,True
+Karnataka,Urban,Pre-COVID,10,10,10,True
+Kerala,Rural,COVID,4,4,4,True
+Kerala,Rural,Pre-COVID,10,10,10,True
+Kerala,Urban,COVID,4,4,4,True
+Kerala,Urban,Pre-COVID,10,10,10,True
+Madhya Pradesh,Rural,COVID,4,4,4,True
+Madhya Pradesh,Rural,Pre-COVID,10,10,10,True
+Madhya Pradesh,Urban,COVID,4,4,4,True
+Madhya Pradesh,Urban,Pre-COVID,10,10,10,True
+Maharashtra,Rural,COVID,4,4,4,True
+Maharashtra,Rural,Pre-COVID,10,10,10,True
+Maharashtra,Urban,COVID,4,4,4,True
+Maharashtra,Urban,Pre-COVID,10,10,10,True
+Meghalaya,Rural,COVID,4,4,4,True
+Meghalaya,Rural,Pre-COVID,10,10,10,True
+Meghalaya,Urban,COVID,3,3,4,False
+Meghalaya,Urban,Pre-COVID,10,10,10,True
+Odisha,Rural,COVID,4,4,4,True
+Odisha,Rural,Pre-COVID,10,10,10,True
+Odisha,Urban,COVID,4,4,4,True
+Odisha,Urban,Pre-COVID,10,10,10,True
+Puducherry,Rural,COVID,2,2,4,False
+Puducherry,Rural,Pre-COVID,10,10,10,True
+Puducherry,Urban,COVID,4,4,4,True
+Puducherry,Urban,Pre-COVID,10,10,10,True
+Punjab,Rural,COVID,4,4,4,True
+Punjab,Rural,Pre-COVID,10,10,10,True
+Punjab,Urban,COVID,4,4,4,True
+Punjab,Urban,Pre-COVID,10,10,10,True
+Rajasthan,Rural,COVID,4,4,4,True
+Rajasthan,Rural,Pre-COVID,10,10,10,True
+Rajasthan,Urban,COVID,4,4,4,True
+Rajasthan,Urban,Pre-COVID,10,10,10,True
+Sikkim,Rural,COVID,2,2,4,False
+Sikkim,Rural,Pre-COVID,3,3,10,False
+Sikkim,Urban,COVID,4,4,4,True
+Sikkim,Urban,Pre-COVID,8,8,10,False
+Tamil Nadu,Rural,COVID,4,4,4,True
+Tamil Nadu,Rural,Pre-COVID,10,10,10,True
+Tamil Nadu,Urban,COVID,4,4,4,True
+Tamil Nadu,Urban,Pre-COVID,10,10,10,True
+Telangana,Rural,COVID,4,4,4,True
+Telangana,Rural,Pre-COVID,10,10,10,True
+Telangana,Urban,COVID,4,4,4,True
+Telangana,Urban,Pre-COVID,10,10,10,True
+Tripura,Rural,COVID,4,4,4,True
+Tripura,Rural,Pre-COVID,10,10,10,True
+Tripura,Urban,COVID,4,4,4,True
+Tripura,Urban,Pre-COVID,10,10,10,True
+Uttar Pradesh,Rural,COVID,4,4,4,True
+Uttar Pradesh,Rural,Pre-COVID,10,10,10,True
+Uttar Pradesh,Urban,COVID,4,4,4,True
+Uttar Pradesh,Urban,Pre-COVID,10,10,10,True
+Uttarakhand,Rural,COVID,3,3,4,False
+Uttarakhand,Rural,Pre-COVID,10,10,10,True
+Uttarakhand,Urban,COVID,4,4,4,True
+Uttarakhand,Urban,Pre-COVID,10,10,10,True
+West Bengal,Rural,COVID,4,4,4,True
+West Bengal,Rural,Pre-COVID,10,10,10,True
+West Bengal,Urban,COVID,4,4,4,True
+West Bengal,Urban,Pre-COVID,10,10,10,True

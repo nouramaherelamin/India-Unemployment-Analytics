@@ -1,0 +1,12 @@
+Metric,Value
+Monthly observations,14
+Initial training window,8
+Forecast evaluation type,Rolling-origin one-step-ahead
+Models tested,7
+Best overall model by MAE,Drift
+Best overall MAE,4.71198508303958
+Naive benchmark MAE,4.724938290788015
+Best COVID-period model by MAE,Drift
+Best COVID-period MAE,6.946732194914767
+Seasonal model used,No
+Long-horizon forecast supported,No
